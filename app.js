@@ -60,6 +60,8 @@ app.use('/', require('./routes/index'))
 app.use('/users', require('./routes/users'))
 app.use('/api', require('./routes/jobs'))
 
+
+// Server
 app.listen(PORT, () =>{
     console.log(`server is running on port ${PORT}`)
 })
