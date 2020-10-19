@@ -21,7 +21,7 @@ mongoose.connect(db, {
 .then(() => console.log("Mongo connected"))
 .catch((err) => console.log(err))
 
-// handlebars
+// handlebarss
 app.engine('handlebars', exphbs({
     layoutsDir: __dirname + '/views/layouts',
     extname: 'handlebars',
