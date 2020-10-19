@@ -4,6 +4,9 @@ const router = express.Router();
 const axios = require('axios');
 // const URL=require('url').URL;
 const chalk = require('chalk');
+
+// Configs
+const { ensureAuthenticated } = require('../config/auth');
 const config= require('../config/keys')
 
 const headers = {
@@ -12,9 +15,9 @@ const headers = {
   'Access-Control-Allow-Methods': 'GET',
 };
 
-router.get('/jobs', (req, res) => {
+router.get('/jobs', ensureAuthenticated, (req, res) => {
     console.log("hit")
-    console.dir(req.path)
+    // console.dir(req.path)
     //  const search='javascript';
     // const location='sydney';
     // const country = 'au';
@@ -28,13 +31,14 @@ router.get('/jobs', (req, res) => {
         console.log(chalk.green(`Proxy GET request to : ${targetURL}`));
         axios.get(targetURL)
           .then(response => {
-            res.writeHead(200, headers);
-            res.redirect('/dashboard', {data: JSON.stringify(response.data.results[0].lodation)});
+            // res.writeHead(200, headers);
+            // res.redirect(200, '/dashboard');
+            res.send({data: JSON.stringify(response.data.results[0].location)})
             // res.end(JSON.stringify(response.data));
           })
           .catch(err => {
             console.log(chalk.red(err));
-            res.writeHead(500, headers);
+            // res.writeHead(500, headers);
             res.send(JSON.stringify(err));
           });
       } 
