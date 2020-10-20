@@ -1,5 +1,5 @@
 <h1 class="mt-4">Dashboard</h1>
-<p class="lead mb-3"> Welcome <strong>{{name}}</strong> </p>
+<p class="lead mb-3"> Welcome</p>
 
 
 <form class="form-inline" action="/api/searchBy" method="POST">
@@ -9,41 +9,53 @@
         id="location" name="location">
     <button class="btn btn-primary my-2 my-sm-0" type="submit">Search</button>
 </form>
-
- <div class="row justify-content-center">
-     {{tech}}
+<br>
+<h3>Technology: {{tech}}</h3>
+<div class="card card-body">
+    <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Based on your previous
+            searches</span>
+    </h1>
+</div>
+<div class="row">
+    <div class="col-8 ">
         {{#each set}}
-        <div class="col-md-4" style="margin-top: 50px;">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Company: {{this.company.display_name}}</h5>
-                    <li>City:{{this.location.display_name}} </li>
-                    <li>Country:{{this.location.area}} </li>
+<h3>Jobs List from {{this.__CLASS__}} </h3>
 
+        <div class="card w-75 border-0">
+            <div class="card-body">
+                <h5 class="card-title">Company: {{this.company.display_name}}</h5>
+                <p class="card-text">
+                    City:{{this.location.display_name}}
+                    Country:{{this.location.area}}
+                </p>
+                <div class="card-footer bg-transparent border-success">
+                    <a href="{{this.redirect_url}} ">Reference</a>
                 </div>
             </div>
         </div>
         {{/each}}
     </div>
+    <div class="col-4">
 
-    {{!-- <div class="col-md-4 m-auto">
         <div class="card card-body">
-            <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Based on your previous searches</span>
+            <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Tech trends technologies
+                    compared</span>
             </h1>
         </div>
+        <div class="card card-body">
+            <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Number of job openings in last
+                    2 months in
+                    different portals</span></h1>
+        </div>
+        <div class="card card-body">
+            <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Tech trends comparing salries
+                    at different
+                    locations</span></h1>
+        </div>
     </div>
-    <div class="card card-body">
-        <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Tech trends technologies compared</span>
-        </h1>
-    </div>
-    <div class="card card-body">
-        <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Number of job openings in last 2 months in
-                different portals</span></h1>
-    </div>
-    <div class="card card-body">
-        <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Tech trends comparing salries at different
-                locations</span></h1>
-    </div> --}}
+
+</div>
+</div>
 </div>
 
 <a href="/users/logout" class="btn btn-secondary">Logout</a>

@@ -8,7 +8,7 @@ const passport = require('passport');
 const cors = require('cors');
 
 const app=express();
-const PORT = process.env.PORT || 3456;
+const PORT = process.env.PORT || 5678;
 
 // Passport config
 require('./config/passport')(passport);
