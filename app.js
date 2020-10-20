@@ -24,16 +24,23 @@ mongoose.connect(db, {
 .then(() => console.log("Mongo connected"))
 .catch((err) => console.log(err))
 
-// handlebarss
+// handlebars
 app.engine('handlebars', exphbs({
     layoutsDir: __dirname + '/views/layouts',
     extname: 'handlebars',
     defaultView: 'default',
     //new configuration parameter
-    partialsDir: __dirname + '/views/partials/'
+    partialsDir: __dirname + '/views/partials/',
+    // helpers
+    helpers: {
+        adzuna: function(string) {
+            return string.split(":", 1);
+        }
+    }
 }));
 
 app.set('view engine', 'handlebars');
+
 
 // middleware bodyparser
 app.use(express.urlencoded({extended: false}))

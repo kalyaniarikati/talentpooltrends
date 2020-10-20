@@ -1,5 +1,6 @@
 <h1 class="mt-4">Dashboard</h1>
 <p class="lead mb-3"> Welcome</p>
+<a href="/users/logout" class="btn btn-secondary">Logout</a>
 
 
 <form class="form-inline" action="/api/searchBy" method="POST">
@@ -10,27 +11,35 @@
     <button class="btn btn-primary my-2 my-sm-0" type="submit">Search</button>
 </form>
 <br>
-<h3>Counts: SeekAus => {{parsedSeekAus.jobs.length}}, IndeedAUS: {{parsedIndeedAus.jobs.length}}, UK:
-    {{parsedIndeedUk.jobs.length}}, USA: {{parsedIndeedUsa.jobs.length}}
-</h3>
-<h4>Technology: {{tech}}</h4>
+{{!-- <h3>Counts: 
+  {{!-- SeekAus => {{parsedSeekAus.jobs.length}},  --}}
+  {{!-- IndeedAUS: {{parsedIndeedAus.jobs.length}}  --}}
+  {{!-- {{!-- UK: {{parsedIndeedUk.jobs.length}},  --}}
+  {{!-- SA: {{parsedIndeedUsa.jobs.length}} --}}
+{{!-- </h3> --}}
+{{!-- {{!-- <h4>Technology: {{tech}}</h4>  --}}
 
 <div class="row">
-    <div class="col-8 ">
+    <div class="col-8">
         {{#each set}}
-        <h3>Jobs List from {{this.__CLASS__}} </h3>
 
         <div class="card w-75 border-0">
-            <div class="card-body">
-                <h5 class="card-title">Company: {{this.company.display_name}}</h5>
-                <p class="card-text">
-                    City:{{this.location.display_name}}
-                    Country:{{this.location.area}}
-                </p>
-                <div class="card-footer bg-transparent border-success">
-                    <a href="{{this.redirect_url}} ">Reference</a>
-                </div>
-            </div>
+          <br>
+          <div class="card-body">
+            <h5 class="card-title">{{this.company.display_name}}</h5>
+            <p class="card-text">
+              {{this.location.display_name}}
+              {{!-- {{this.location.area}} --}}
+            </p>
+            <span>
+              <button type="button" class="btn btn-info">Apply
+                <a target="_blank" href="{{this.redirect_url}}"></a>
+              </button>
+              <sub>{{adzuna this.__CLASS__}}</sub>
+            </span>
+            <br>
+          </div>
+          <div class="card-footer bg-transparent border-success p-0"></div>
         </div>
         {{/each}}
     </div>
@@ -40,7 +49,11 @@
         <input id="usa" type="hidden" value={{parsedIndeedUsa.jobs.length}} aria-hidden="true"><br><br>
         <button class="btn btn-primary my-2 my-sm-0" type="submit" id="buttonId">Trend Graphs</button>
 
+
         <div class="card card-body border-0">
+
+        <div class="div1"></div>
+
             <div id="chart">
             </div>
         </div>
@@ -58,6 +71,8 @@
 </div>
 </div>
 </div>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
 
 <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 
