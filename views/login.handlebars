@@ -1,7 +1,9 @@
 <div class="row mt-5">
-    <div class="col-md-6 m-auto">
-        <div class="card card-body">
-            <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i>Login</h1>
+    <div class="container">
+        <div class="inner">
+            <div class="col-md-6 m-auto" id="pop">
+        <div class="card card-body" id="inner">
+            <h1 class="text-center mb-3d"> <i class="fas fa-sign-in-alt"></i>Login</h1>
             {{> messages}}
             <form action="/users/login" method="POST">
             <div class="form-group">
@@ -17,4 +19,23 @@
             <p class="lead mt-4">No Account? <a href="/users/register">Register</a> </p>
         </div> 
     </div>
+        </div>
+    </div>
 </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popmotion/9.0.0/popmotion.global.min.js"></script>
+
+<script>
+    const pop = popmotion.styler(document.querySelector('.pop'));
+    const formElements = (document.querySelector('.inner'));
+
+    popmotion.tween({
+        from: {
+            scale: .7
+        },
+        to: {
+            scale: 1
+        },
+        duration: 1000
+    }).start(pop.set)
+
+</script>
