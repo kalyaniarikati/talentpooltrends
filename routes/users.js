@@ -4,7 +4,7 @@ const bcrypt = require('bcryptjs');
 const passport = require('passport');
 
 // User model
-const User = require('../model/User')
+const User = require('../model/User');
 
 // Login page
 router.get('/login', (req, res) => res.render("login"));
@@ -15,25 +15,25 @@ router.get('/register', (req, res) => res.render("register"));
 // Register handle
 router.post('/register', (req, res) => {
     console.log(req.body)
-    const {name, email, password, password2}= req.body;
-    let errors=[];
+    const { name, email, password, password2 } = req.body;
+    let errors = [];
 
     // check required fields
-    if(!name ||!email || !password ||!password2){
+    if(!name ||!email || !password ||!password2) {
         errors.push({msg: "Please fill all the fields"});
         console.log(errors)
     }
     
     // check passwords match
-    if(password !== password2){
+    if(password !== password2) {
         errors.push({msg: "Passwords do not match"});
     }
 
     // check password length
-    if(password.length < 6){
+    if(password.length < 6) {
         errors.push({msg: "Password should be atleast 6 chars"});
     }
-    if (errors.length > 0){
+    if (errors.length > 0) {
         res.render('register',{
             errors,
             name,
@@ -100,4 +100,4 @@ router.get('/logout', (req, res, next) => {
     res.redirect('/users/login')
 })
 
-module.exports= router;
+module.exports = router;

@@ -5,7 +5,7 @@ const flash = require('connect-flash');
 const session = require('express-session');
 const passport = require('passport');
 
-const app=express();
+const app = express();
 const PORT = process.env.PORT || 5678;
 
 // Passport config
@@ -44,7 +44,7 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 
-//   connect flash
+// connect flash
 app.use(flash());
 
 // Global vars
@@ -60,6 +60,10 @@ app.use('/', require('./routes/index'))
 app.use('/users', require('./routes/users'))
 app.use('/api', require('./routes/jobs'))
 
+// Debug error handling
+void process.on('unhandledRejection', (reason, p) => {
+    console.log(p);
+});
 
 // Server
 app.listen(PORT, () =>{
