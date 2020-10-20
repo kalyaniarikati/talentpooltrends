@@ -60,6 +60,7 @@ const getSearch = (req, res) => {
         res.render ('dashboard', {
           set: set.results,
           tech: search,
+          adFrom: set.__CLASS__.split(":", 1),
           parsedSeekAus, parsedIndeedAus, parsedIndeedUk, parsedIndeedUsa
         });
       })
