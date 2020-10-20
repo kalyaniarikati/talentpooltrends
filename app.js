@@ -10,6 +10,7 @@ const cors = require('cors');
 const app=express();
 const PORT = process.env.PORT || 3456;
 
+
 // Passport config
 require('./config/passport')(passport);
 
@@ -49,7 +50,7 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 
-//   connect flash
+// connect flash
 app.use(flash());
 
 // Global vars
@@ -65,6 +66,10 @@ app.use('/', require('./routes/index'))
 app.use('/users', require('./routes/users'))
 app.use('/api', require('./routes/jobs_routes'))
 
+// Debug error handling
+void process.on('unhandledRejection', (reason, p) => {
+    console.log(p);
+});
 
 // Server
 app.listen(PORT, () =>{

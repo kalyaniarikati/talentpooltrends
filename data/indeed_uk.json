@@ -1,14 +1,14 @@
 {
- "jobTitle": [
+ "jobs": [
   {
-   "name": "FRONT END DEVELOPER INTERNSHIP",
+   "title": "FRONT END DEVELOPER INTERNSHIP",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c7e47653afe0dc5f&fccid=d750b9c8dce00180&vjs=3",
    "company": "Inspiring Interns",
    "location": "London",
    "blurb": "Front End Developer Internship | Paid Internship | Digital Marketing | West London.\nWorking on attractive and functional user interfaces for web and mobile."
   },
   {
-   "name": "JUNIOR DEVELOPER",
+   "title": "JUNIOR DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=cc94c20401d08acb&fccid=d750b9c8dce00180&vjs=3",
    "company": "Inspiring Interns",
    "location": "London",
@@ -16,7 +16,7 @@
    "salary": "£25,000 a year"
   },
   {
-   "name": "Junior Software Developer Apprentice",
+   "title": "Junior Software Developer Apprentice",
    "url": "https://www.indeed.co.uk/rc/clk?jk=9f01c75faf39075a&fccid=1fe1e83488084928&vjs=3",
    "company": "LDN Apprenticeships",
    "location": "London SW9 8EP",
@@ -24,7 +24,7 @@
    "salary": "£15,000 a year"
   },
   {
-   "name": "Trainee Information Developer",
+   "title": "Trainee Information Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=9622616cb62f07aa&fccid=247ddee47f9c9dd9&vjs=3",
    "company": "Doncaster and Bassetlaw Teaching Hospitals NHS Fou...",
    "location": "Doncaster",
@@ -32,14 +32,14 @@
    "salary": "£21,892 - £24,157 a year"
   },
   {
-   "name": "Junior Server Side Developer",
+   "title": "Junior Server Side Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a22c1a876038aa41&fccid=20563b91909e2481&vjs=3",
    "company": "Speed Agency",
    "location": "Peterborough PE8 6SQ",
    "blurb": "Our developers work on a wide range of projects from microsites to complex websites with multiple integrations and modules; developed on our bespoke Laravel…"
   },
   {
-   "name": "Entry Level Web Developer",
+   "title": "Entry Level Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c70a5f605800ba43&fccid=6920a3604c831610&vjs=3",
    "company": "Attwood Perks",
    "location": "Colchester",
@@ -47,7 +47,7 @@
    "salary": "£18,000 a year"
   },
   {
-   "name": "Mid-Level Front-End Developer (JavaScript, CSS, React, HTML)",
+   "title": "Mid-Level Front-End Developer (JavaScript, CSS, React, HTML)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=f0b8aa417740b401&fccid=18d0aa239188acab&vjs=3",
    "company": "develop.",
    "location": "London",
@@ -55,28 +55,28 @@
    "salary": "£50,000 - £60,000 a year"
   },
   {
-   "name": "React Developer (Contract)",
+   "title": "React Developer (Contract)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=7f132f6be39ecfae&fccid=18d0aa239188acab&vjs=3",
    "company": "develop.",
    "location": "London",
    "salary": "£400 a week"
   },
   {
-   "name": "Oracle Developer - IBM CIC",
+   "title": "Oracle Developer - IBM CIC",
    "url": "https://www.indeed.co.uk/rc/clk?jk=76691d738575821e&fccid=de71a49b535e21cb&vjs=3",
    "company": "IBM",
    "location": "Leicester",
    "blurb": "In addition to our technical expertise we can cover Delivery through Project Managers & Project Analysts, Business or Data Analysts.\nExperience of SQL, PL/SQL."
   },
   {
-   "name": "Junior Developer",
+   "title": "Junior Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=ffab395337299775&fccid=e39ee30fd19ecde6&vjs=3",
    "company": "NETconsent",
    "location": "Fleet",
    "blurb": "NETconsent Ltd is a leading vendor of compliance and communications software that automates the policy management life-cycle, delivers e-learning content and…"
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=be5946908cf0dd89&fccid=30e0d7438dd0a131&vjs=3",
    "company": "University of Sheffield",
    "location": "Sheffield",
@@ -84,14 +84,14 @@
    "salary": "£26,715 - £30,942 a year"
   },
   {
-   "name": "Junior Developer RPG or PHP",
+   "title": "Junior Developer RPG or PHP",
    "url": "https://www.indeed.co.uk/rc/clk?jk=bea7e6b730481bbe&fccid=e66c17bda7af1474&vjs=3",
    "company": "Sovereign Business Integration Group",
    "location": "Cockfosters",
    "blurb": "We are looking for an outstanding Junior Developer (RPG or PHP) with at least 6 months experience in PHP or RPG to develop and support RPG/or PHP applications…"
   },
   {
-   "name": "Junior Software Developer / Engineer",
+   "title": "Junior Software Developer / Engineer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=4a1e1a8f36fc96d3&fccid=8a4dc4397dc53289&vjs=3",
    "company": "Chartered Management Institute",
    "location": "Corby NN17 1TT",
@@ -99,7 +99,7 @@
    "salary": "£22,500 a year"
   },
   {
-   "name": "Graduate Software Developer (Manchester)",
+   "title": "Graduate Software Developer (Manchester)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d57bed07b09ce631&fccid=3e983d79737f30bd&vjs=3",
    "company": "TalentPool",
    "location": "Manchester M4 4BF",
@@ -107,14 +107,14 @@
    "salary": "£37,000 a year"
   },
   {
-   "name": "AEM Front End Developer",
+   "title": "AEM Front End Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=187586c6dc153d34&fccid=42b0584d68155b35&vjs=3",
    "company": "Selfridges",
    "location": "London",
    "blurb": "Working in an Agile environment that will enable the project to provide extraordinary experiences for our customers.\nGenerous bonus and/or commission scheme."
   },
   {
-   "name": "BMW Plant Hams Hall, Birmingham - IT Innovation Developer -...",
+   "title": "BMW Plant Hams Hall, Birmingham - IT Innovation Developer -...",
    "url": "https://www.indeed.co.uk/rc/clk?jk=824897d766bde569&fccid=145f77b9f76cf553&vjs=3",
    "company": "BMW Hams Hall Motoren GmbH",
    "location": "Hall",
@@ -122,14 +122,14 @@
    "salary": "£18,500 a year"
   },
   {
-   "name": "Research Scientist Intern",
+   "title": "Research Scientist Intern",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3a6ececcda805ab1&fccid=fe2d21eef233e94a&vjs=3",
    "company": "Amazon UK Services Ltd.",
    "location": "London",
    "blurb": "Closely collaborate with operations research scientists, data scientists, business analysts, BI teams, developers, economists and more on various models’ …"
   },
   {
-   "name": "JUNIOR FRONT-END WEB DEVELOPER [ARTS SECTOR]",
+   "title": "JUNIOR FRONT-END WEB DEVELOPER [ARTS SECTOR]",
    "url": "https://www.indeed.co.uk/rc/clk?jk=cd6d91cc376e1bae&fccid=b2524f062a942b0c&vjs=3",
    "company": "Guru",
    "location": "London SW9",
@@ -137,7 +137,7 @@
    "salary": "£30,000 a year"
   },
   {
-   "name": "Web Developer",
+   "title": "Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=cf8e28702274bbc7&fccid=d0d49f21da657bc3&vjs=3",
    "company": "Derwentside College",
    "location": "Consett",
@@ -145,7 +145,7 @@
    "salary": "£25,408 a year"
   },
   {
-   "name": "Apprentice Software Developer",
+   "title": "Apprentice Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1af58bc6482aa3bb&fccid=176ed976e0192371&vjs=3",
    "company": "Personal Group",
    "location": "Milton Keynes MK9 3XL",
@@ -153,7 +153,7 @@
    "salary": "£14,000 a year"
   },
   {
-   "name": "SAP ABAP Developer- S/4 HANA CDS",
+   "title": "SAP ABAP Developer- S/4 HANA CDS",
    "url": "https://www.indeed.co.uk/rc/clk?jk=009276b5dc5a866e&fccid=e9deb9072796d5e3&vjs=3",
    "company": "กลุ่มบริษัท DTGO",
    "location": "Home Based",
@@ -161,14 +161,14 @@
    "salary": "£70,000 a year"
   },
   {
-   "name": "Trainee Software Developer",
+   "title": "Trainee Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3328b673e9e7f168&fccid=f28d659c13a0ec47&vjs=3",
    "company": "Reynolds and Reynolds",
    "location": "Birmingham",
    "blurb": "Successful applicants undergo a series of training projects in the application development environment, after which they work on assignments of increasing…"
   },
   {
-   "name": "Summer Internship 2021 – Software Developer",
+   "title": "Summer Internship 2021 – Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=674eaa9ea36b468c&fccid=849ae8a55bf79327&vjs=3",
    "company": "TPP",
    "location": "Leeds LS18 5PX",
@@ -176,7 +176,7 @@
    "salary": "£2,000 a month"
   },
   {
-   "name": "ETL DEVELOPER",
+   "title": "ETL DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=e9f3acb5d48a6ee3&fccid=1845b845b5c5b66e&vjs=3",
    "company": "Intec Select",
    "location": "London",
@@ -184,14 +184,14 @@
    "salary": "£500 a week"
   },
   {
-   "name": "DotNET Developer (All Levels)",
+   "title": "DotNET Developer (All Levels)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=807ccee32dc1985f&fccid=5f171203fdb01caf&vjs=3",
    "company": "Auction Technology Group",
    "location": "London",
    "blurb": "Provide developer support to the DevOps and Customer Services teams.\nThe role will be part of our engineering team which is responsible for the further…"
   },
   {
-   "name": "Junior Developer",
+   "title": "Junior Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=919560e0d7846823&fccid=bad09fa1d074b123&vjs=3",
    "company": "Digitalent",
    "location": "Newcastle upon Tyne",
@@ -199,14 +199,14 @@
    "salary": "£20,000 - £25,000 a year"
   },
   {
-   "name": "Software Engineer, Intern/Co-op",
+   "title": "Software Engineer, Intern/Co-op",
    "url": "https://www.indeed.co.uk/rc/clk?jk=00c5e33bf2f5959a&fccid=1639254ea84748b5&vjs=3",
    "company": "Facebook",
    "location": "London",
    "blurb": "It's common to write code and have it running live on the site hours later.\nCode high-volume software using primarily C++ and Java."
   },
   {
-   "name": "Multimedia Developer",
+   "title": "Multimedia Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1073d62afe94a952&fccid=7bedc435b7403966&vjs=3",
    "company": "University of Southampton",
    "location": "Southampton",
@@ -214,14 +214,14 @@
    "salary": "£25,217 - £30,046 a year"
   },
   {
-   "name": "Junior Software Developer",
+   "title": "Junior Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d40600e9a55b760e&fccid=881bda706178bde0&vjs=3",
    "company": "AKT II",
    "location": "London",
    "blurb": "In recent years AKT has formed an in-house Development Team – comprised of software developers and computational designers – that builds bespoke software tools…"
   },
   {
-   "name": "Graduate Software Developer",
+   "title": "Graduate Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=91d0be8d3c4c30e1&fccid=849ae8a55bf79327&vjs=3",
    "company": "TPP",
    "location": "Leeds LS18 5PX",
@@ -229,14 +229,14 @@
    "salary": "£45,000 a year"
   },
   {
-   "name": "Apprenticeship - Junior Software Engineer",
+   "title": "Apprenticeship - Junior Software Engineer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=05594cfb8b3e17a5&fccid=f057e04c37cca134&vjs=3",
    "company": "American Express",
    "location": "Burgess Hill",
    "blurb": "To teams using the latest in Cloud Native technologies such as Docker, Kubernetes and Golang.\nWe’ll provide you with continuous training and development, 20% in…"
   },
   {
-   "name": "Web Developer",
+   "title": "Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=f5ca23c2412b83b7&fccid=c77a517d42b12b12&vjs=3",
    "company": "Utilita",
    "location": "Chandlers Ford",
@@ -244,42 +244,42 @@
    "salary": "£28,863 a year"
   },
   {
-   "name": "AEM Back End Developer",
+   "title": "AEM Back End Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=873a21c2c663efd6&fccid=42b0584d68155b35&vjs=3",
    "company": "Selfridges",
    "location": "London",
    "blurb": "You’ll play a key role in the development and support of our CMS platform Adobe Experience Manager (AEM) and we’ll look to you to provide vision and direction…"
   },
   {
-   "name": "Software Engineer, Facebook Reality Labs",
+   "title": "Software Engineer, Facebook Reality Labs",
    "url": "https://www.indeed.co.uk/rc/clk?jk=87c6b12776d8828e&fccid=1639254ea84748b5&vjs=3",
    "company": "Facebook",
    "location": "London",
    "blurb": "We’re looking for talented engineers passionate about product and working on cutting edge technologies.\nHelp deliver exceptional virtual reality experiences."
   },
   {
-   "name": "Front End developer",
+   "title": "Front End developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=6a3d7a951fb8ef26&fccid=99348a45bd5bd696&vjs=3",
    "company": "Tribal Solutions",
    "location": "Edinburgh EH6",
    "blurb": "In short the business if technically advanced, and they look for developers that are capable and willing to move across languages and frameworks as necessary."
   },
   {
-   "name": "Backend Developer",
+   "title": "Backend Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d212323debc6aa42&fccid=1e6417d857feec1e&vjs=3",
    "company": "kwiff",
    "location": "London",
    "blurb": "You will have experience in Node.js, micro-service architectures and integrating external systems.\nIt is important that you have a strong focus on quality…"
   },
   {
-   "name": "ABAP DEVELOPER",
+   "title": "ABAP DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a707cfc111db658f&fccid=5ae76a1227467914&vjs=3",
    "company": "Moy Park",
    "location": "Craigavon BT63 5QE",
    "blurb": "The SAP ABAP Developer will be working as a member of the Moy Park development team but will have close relationships with our parent company Pilgrims Pride to…"
   },
   {
-   "name": "Digital Learning Developer",
+   "title": "Digital Learning Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b0b4397a39470f9c&fccid=30d7e5d11589daba&vjs=3",
    "company": "Mencap",
    "location": "Home Based",
@@ -287,48 +287,48 @@
    "salary": "£34,126 a year"
   },
   {
-   "name": "Front End Developer Internship",
+   "title": "Front End Developer Internship",
    "url": "https://www.indeed.co.uk/rc/clk?jk=fda275fee2450e10&fccid=4d45cd86e15de304&vjs=3",
    "company": "European Student Placement Agency (ESPA)",
    "location": "Birmingham"
   },
   {
-   "name": "Software Developer **SUBJECT TO ESSENTIAL CRITERIA BEING MET...",
+   "title": "Software Developer **SUBJECT TO ESSENTIAL CRITERIA BEING MET...",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3afb22a7d6508074&fccid=979913b570893c08&vjs=3",
    "company": "Swansea University",
    "location": "Swansea",
    "salary": "£34,804 - £40,322 a year"
   },
   {
-   "name": "Junior C-Sharp Quant Developer",
+   "title": "Junior C-Sharp Quant Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b1114c5aab8b2dd4&fccid=ee0e27da47075aef&vjs=3",
    "company": "Legal & General Investment Management",
    "location": "London EC2R 5AA",
    "blurb": "You will be able to interact with fund managers, developers and wider teams successfully.\nCompetitive + Bonus + Benefits."
   },
   {
-   "name": "Junior Developer",
+   "title": "Junior Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=2028fb82f3cd3382&fccid=4272b206287fedb8&vjs=3",
    "company": "GRIFFIN",
    "location": "Oxford",
    "blurb": "Experience with C# or PHP4/PHP5;\nWeb-based solutions, ASP, ASP.NET;\nExperience with : AJAX, XML, HTML, JavaScript and CSS;\nMS SQL Server 2000/2005, MySQL;"
   },
   {
-   "name": "Junior Software Developer",
+   "title": "Junior Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=38e8af2716568638&fccid=7f43b6c86f93a55a&vjs=3",
    "company": "Avius",
    "location": "Bournemouth",
    "blurb": "You’ll work with experienced software developers on several features of our products and be involved in concept-to-delivery of high quality solutions to our end…"
   },
   {
-   "name": "Front End Engineer",
+   "title": "Front End Engineer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=130a3c686cf1a060&fccid=1639254ea84748b5&vjs=3",
    "company": "Facebook",
    "location": "London",
    "blurb": "Lead complex technical or product efforts across many engineers.\nProvide technical guidance and mentorship to peers.\nExperience with React is a bonus."
   },
   {
-   "name": "iOS Developer",
+   "title": "iOS Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=cd8427574944d5f3&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "Southampton",
@@ -336,7 +336,7 @@
    "salary": "£41,000 a year"
   },
   {
-   "name": "Junior SQL Developer",
+   "title": "Junior SQL Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=45aeb31d5629b0e8&fccid=ee052f6e9d098e10&vjs=3",
    "company": "Euro Garages",
    "location": "Blackburn BB1 2EE",
@@ -344,28 +344,28 @@
    "salary": "£26,000 a year"
   },
   {
-   "name": "Junior .NET Developer",
+   "title": "Junior .NET Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3e544a0c98faec91&fccid=dd616958bd9ddc12&vjs=3",
    "company": "Campaign Monitor",
    "location": "London",
    "blurb": "You will be assisting the team in investigating and resolving 3rd line support queries and deliver improvements to the system in a continuous manner."
   },
   {
-   "name": "Associate Software Developer",
+   "title": "Associate Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d9632b2897c9e82f&fccid=5ea02cf2df92ab90&vjs=3",
    "company": "Wellbeing Software",
    "location": "Home Based",
    "blurb": "Our Associate Developers support the development of our software products that assist Healthcare Professionals to improve Patient Outcomes through the design…"
   },
   {
-   "name": "Graduate Developer",
+   "title": "Graduate Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=027a189440bb5eee&fccid=c44218d8c2035787&vjs=3",
    "company": "Solirius",
    "location": "London",
    "blurb": "After training, working as a Java, Python, Ruby or C# developer on one of our client projects.\nAn independent software and technology consultancy who have…"
   },
   {
-   "name": "REACT DEVELOPER",
+   "title": "REACT DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a5ed72796b6dce8b&fccid=1845b845b5c5b66e&vjs=3",
    "company": "Intec Select",
    "location": "London",
@@ -373,7 +373,7 @@
    "salary": "£60,000 - £70,000 a year"
   },
   {
-   "name": "Junior Software Developer",
+   "title": "Junior Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b48ab8039340024f&fccid=ee052f6e9d098e10&vjs=3",
    "company": "Euro Garages",
    "location": "Blackburn BB1 2EE",
@@ -381,7 +381,7 @@
    "salary": "£20,000 a year"
   },
   {
-   "name": "Junior Software Developer",
+   "title": "Junior Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=5f66449649104160&fccid=3974b8216821cf9e&vjs=3",
    "company": "IT Retail Systems",
    "location": "Huddersfield",
@@ -389,14 +389,14 @@
    "salary": "£18,000 - £25,000 a year"
   },
   {
-   "name": "Associate RPA Developer",
+   "title": "Associate RPA Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=fbb99b2560a435a6&fccid=848f060296f23fff&vjs=3",
    "company": "Sage",
    "location": "Newcastle upon Tyne",
    "blurb": "Understanding of the business processes.\nExcellent troubleshooting and technical analytical skills.\nSupport the CoE Senior Architect with onboarding RPA…"
   },
   {
-   "name": "Assistant Web Developer",
+   "title": "Assistant Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=8136517351fc4dc6&fccid=27d8506df61c7eb8&vjs=3",
    "company": "University of Cumbria",
    "location": "Lancaster",
@@ -404,21 +404,21 @@
    "salary": "£19,612 a year"
   },
   {
-   "name": "Software Engineer II",
+   "title": "Software Engineer II",
    "url": "https://www.indeed.co.uk/rc/clk?jk=9277418538e1e0f2&fccid=734cb5a01ee60f80&vjs=3",
    "company": "Microsoft",
    "location": "London",
    "blurb": "You will work with a team of applied scientists and developers who are responsible for all stages of the research & development cycle including early ideation,…"
   },
   {
-   "name": "Frontend Developer",
+   "title": "Frontend Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=7f60d21f6282a7b4&fccid=3d84d04ee1741059&vjs=3",
    "company": "Bumble",
    "location": "London",
    "blurb": "Working in a big team, actively collaborating with fellow Frontend developers, Quality Assurance, Release Engineers and designers."
   },
   {
-   "name": "Front-end Developer",
+   "title": "Front-end Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=65c1076f6f251ca7&fccid=61eae24923da98ec&vjs=3",
    "company": "GreenShoot Labs",
    "location": "Home Based",
@@ -426,7 +426,7 @@
    "salary": "£45,000 a year"
   },
   {
-   "name": "Developer",
+   "title": "Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=01dd4e4fccf2acbe&fccid=510eb05813e0f405&vjs=3",
    "company": "Addaction",
    "location": "Home Based",
@@ -434,7 +434,7 @@
    "salary": "£400 a day"
   },
   {
-   "name": "Web Developer",
+   "title": "Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=6d3c46b0af80c51c&fccid=3098ea97eecfc572&vjs=3",
    "company": "University of Nottingham",
    "location": "Nottingham",
@@ -442,7 +442,7 @@
    "salary": "£30,942 - £40,322 a year"
   },
   {
-   "name": "WordPress Developer",
+   "title": "WordPress Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=70f5c443fc5debeb&fccid=b671f19f2970cf1d&vjs=3",
    "company": "Craftwork Digital",
    "location": "Stoneleigh",
@@ -450,7 +450,7 @@
    "salary": "£25,000 - £30,000 a year"
   },
   {
-   "name": "Php Developer",
+   "title": "Php Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=6d2b003de6f45d67&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "Birmingham",
@@ -458,14 +458,14 @@
    "salary": "£52,300 a year"
   },
   {
-   "name": "Data Scientist / Software Developer",
+   "title": "Data Scientist / Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a80483c9f08d63eb&fccid=212af5778aa7175d&vjs=3",
    "company": "Tessella",
    "location": "Abingdon",
    "blurb": "You will help our clients solve a variety of science and engineering problems.\nCombining domain knowledge and technical skills to understand and solve the…"
   },
   {
-   "name": "Front End Developer",
+   "title": "Front End Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=da31278b3bb7a393&fccid=d698750e99431efa&vjs=3",
    "company": "Mediablanket",
    "location": "Manchester",
@@ -473,7 +473,7 @@
    "salary": "£18,000 - £25,000 a year"
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=20cd3ce87b38ffca&fccid=8046604b2e150e06&vjs=3",
    "company": "NCFE",
    "location": "Newcastle upon Tyne NE12 8BT",
@@ -481,7 +481,7 @@
    "salary": "£38,000 a year"
   },
   {
-   "name": "Graduate Web Developer",
+   "title": "Graduate Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=2a2e988124266ab9&fccid=d6aa1b256248b35a&vjs=3",
    "company": "Storm Ideas",
    "location": "Edinburgh EH6 5NP",
@@ -489,7 +489,7 @@
    "salary": "£20,000 - £25,000 a year"
   },
   {
-   "name": "Software Developer (Server side)",
+   "title": "Software Developer (Server side)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=5b53164f07143609&fccid=e35c5b96d66d895e&vjs=3",
    "company": "Guardian News & Media",
    "location": "London N1",
@@ -497,28 +497,28 @@
    "salary": "£49,600 a year"
   },
   {
-   "name": "Graduate Developer Programme",
+   "title": "Graduate Developer Programme",
    "url": "https://www.indeed.co.uk/rc/clk?jk=e1ed8fcc01c80cba&fccid=31af2c9b1e82d9fe&vjs=3",
    "company": "Ampersand Commerce",
    "location": "Manchester",
    "blurb": "You’ll work closely with experienced, senior developers to solve real client issues; learning the ins and outs of PHP, SQL and Magento and how to deliver…"
   },
   {
-   "name": "Full Stack Developer",
+   "title": "Full Stack Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=67ac6ed91da58eeb&fccid=c67100af3a43e36a&vjs=3",
    "company": "La Fosse Associates Limited",
    "location": "High Wycombe HP11",
    "blurb": "I'm currently recruiting for a Full Stack JavaScript Developer for a venture backed technology start up based in London."
   },
   {
-   "name": "Oracle Developer",
+   "title": "Oracle Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3fe176fa624f887f&fccid=057abf3fd357e717&vjs=3",
    "company": "Barclays",
    "location": "Glasgow G2",
    "blurb": "You will be performing technical assessment, effort estimation, solution design, build/ test the approved design and implementation into production environment…"
   },
   {
-   "name": "TouchDesigner Creative Developer",
+   "title": "TouchDesigner Creative Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=81b1688e6b88eda3&fccid=4011e6c8de8f4abc&vjs=3",
    "company": "Derivative",
    "location": "London",
@@ -526,14 +526,14 @@
    "salary": "£425 a day"
   },
   {
-   "name": "Frontend Developer",
+   "title": "Frontend Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=cb0b8e78395321d6&fccid=09e5a275a302d7af&vjs=3",
    "company": "Spixii",
    "location": "London",
    "blurb": "Spixii designs, builds and services automated insurance virtual agents (aka bots) redesigning the way people interact with insurance from buying to claiming."
   },
   {
-   "name": "Developer",
+   "title": "Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3f7338251f7967a6&fccid=c1e2ea4c9162208f&vjs=3",
    "company": "UK Government - Office of Gas and Electricity Mark...",
    "location": "London",
@@ -541,21 +541,21 @@
    "salary": "£30,950 - £39,779 a year"
   },
   {
-   "name": "Infrastructure Developer - 210017451",
+   "title": "Infrastructure Developer - 210017451",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a4e4194a88167f64&fccid=aaf3b433897ea465&vjs=3",
    "company": "JPMorgan Chase Bank, N.A.",
    "location": "London",
    "blurb": "You'll be using the latest technologies, data management, and security practices in all aspect of software development.\nBS/BA degree or equivalent experience."
   },
   {
-   "name": "C# Developer",
+   "title": "C# Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=20523f64965ada33&fccid=dbf7c402233af7b8&vjs=3",
    "company": "SoulTek",
    "location": "Glasgow",
    "salary": "£45,000 - £55,000 a year"
   },
   {
-   "name": ".NET DEVELOPER",
+   "title": ".NET DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=74930910a6eca46d&fccid=1845b845b5c5b66e&vjs=3",
    "company": "Intec Select",
    "location": "London",
@@ -563,21 +563,21 @@
    "salary": "£600 - £650 a week"
   },
   {
-   "name": "Wordpress Developer",
+   "title": "Wordpress Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=e886578d247399fa&fccid=1eed471f94d536e1&vjs=3",
    "company": "LeaderHR",
    "location": "Sheffield",
    "blurb": "Conversing with our clients to an outstanding level providing remarkable customer service is a MUST!\nFront and Back end Wordpress Management."
   },
   {
-   "name": "Proclaim Developer",
+   "title": "Proclaim Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=5626beb8322a5590&fccid=f20c34f47ff2357d&vjs=3",
    "company": "Thorneycroft Solicitors Ltd",
    "location": "Macclesfield",
    "blurb": "You will be working as part of a small, busy, versatile team and as such expected to undertake a wide variety of task.\nHave at least 3 years’ experience."
   },
   {
-   "name": "Software Engineering - Graduate Programme",
+   "title": "Software Engineering - Graduate Programme",
    "url": "https://www.indeed.co.uk/rc/clk?jk=5b1474b82c0c914f&fccid=4a3a2b1eb3ec0691&vjs=3",
    "company": "NatWest Group",
    "location": "Edinburgh",
@@ -585,7 +585,7 @@
    "salary": "£31,850 a year"
   },
   {
-   "name": "BACKEND DEVELOPER",
+   "title": "BACKEND DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=79130102aca884c9&fccid=1845b845b5c5b66e&vjs=3",
    "company": "Intec Select",
    "location": "London",
@@ -593,7 +593,7 @@
    "salary": "£65,000 - £75,000 a year"
   },
   {
-   "name": "Back End Developer",
+   "title": "Back End Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=970f932215bb48e8&fccid=8c6e29466828cf34&vjs=3",
    "company": "PCR Digital",
    "location": "London",
@@ -601,7 +601,7 @@
    "salary": "£350 - £400 a day"
   },
   {
-   "name": "C# ASP.NET MVC Developer",
+   "title": "C# ASP.NET MVC Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=154cd6f57c033eac&fccid=843a000489f8b691&vjs=3",
    "company": "Smartedge Solutions",
    "location": "West London",
@@ -609,7 +609,7 @@
    "salary": "£43,000 a year"
   },
   {
-   "name": "Web Developer",
+   "title": "Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c91e71e189bf2002&fccid=bb0134e1e47f89ee&vjs=3",
    "company": "CLIC Sargent",
    "location": "London",
@@ -617,7 +617,7 @@
    "salary": "£32,785 - £35,000 a year"
   },
   {
-   "name": "Software Developer (Fixed term)",
+   "title": "Software Developer (Fixed term)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1455201f4f28d980&fccid=5aa1e8076bd74b4f&vjs=3",
    "company": "University of Sussex",
    "location": "Brighton",
@@ -625,21 +625,21 @@
    "salary": "£30,046 - £33,797 a year"
   },
   {
-   "name": "BI Developer",
+   "title": "BI Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=748ea36368ca308e&fccid=ce8e3a2fbd169887&vjs=3",
    "company": "Premier Foods",
    "location": "Lutterworth",
    "blurb": "Based in Lutterworth, but will be flexible on location as will travel to multiple sites.\nWe have an exciting opportunity for a Business Intelligence Analyst to…"
   },
   {
-   "name": "Associate Front End Developer",
+   "title": "Associate Front End Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=6cab480c47432ced&fccid=ddc9514d5206ef1c&vjs=3",
    "company": "Moneysupermarket Group",
    "location": "London W1D 3RB",
    "blurb": "As a front-end developer your primary focus will be working with various parts of the business to build front-end components using the latest frameworks built…"
   },
   {
-   "name": "Software Developer – SQL, .Net (Ref: PR1976)",
+   "title": "Software Developer – SQL, .Net (Ref: PR1976)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=978ffdc1098a019a&fccid=080d998493fd5f3f&vjs=3",
    "company": "Projentum",
    "location": "Liverpool",
@@ -647,21 +647,21 @@
    "salary": "£400 a day"
   },
   {
-   "name": "Apprentice Web Developer",
+   "title": "Apprentice Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=48b3b521962b9d50&fccid=cf4c744760f4998e&vjs=3",
    "company": "CDK Global",
    "location": "Hungerford RG17 0YL",
    "blurb": "Developing and maintaining highly available and secure web solutions.\nDelivery of software on-schedule and to specification."
   },
   {
-   "name": "Junior/ Mid-Level Developer – Barnsley",
+   "title": "Junior/ Mid-Level Developer – Barnsley",
    "url": "https://www.indeed.co.uk/rc/clk?jk=e098bf30c47d5da7&fccid=51cdf18e3e4b5a5a&vjs=3",
    "company": "Shift F5",
    "location": "Barnsley",
    "salary": "£25,000 - £35,000 a year"
   },
   {
-   "name": "PepsiCo UK Industrial Placement- Product Developer",
+   "title": "PepsiCo UK Industrial Placement- Product Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=59e12a354d49da2f&fccid=2973259ddc967948&vjs=3",
    "company": "PepsiCo",
    "location": "Leicester",
@@ -669,14 +669,14 @@
    "salary": "£21,000 a year"
   },
   {
-   "name": "Graduate Developer",
+   "title": "Graduate Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d4a7af0a82b4cf57&fccid=7f08620df6911114&vjs=3",
    "company": "Adimo",
    "location": "Glasgow",
    "blurb": "To ensure success as a Graduate Developer you will be using a range of development tools and technologies to create new integrations used every day by users on…"
   },
   {
-   "name": "Mobile Apps Developer",
+   "title": "Mobile Apps Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=6a19e8900b9de279&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "London",
@@ -684,7 +684,7 @@
    "salary": "£40,500 a year"
   },
   {
-   "name": "PHP software developer",
+   "title": "PHP software developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a18b076fdd6a8391&fccid=e595bff1355546ab&vjs=3",
    "company": "stickee",
    "location": "Solihull",
@@ -692,14 +692,14 @@
    "salary": "£25,000 - £30,000 a year"
   },
   {
-   "name": "Junior Developer",
+   "title": "Junior Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b06cbc75afff910c&fccid=683f563b5cc25b70&vjs=3",
    "company": "The Nielsen Company",
    "location": "Norwich",
    "blurb": "Contribute to the development of a bespoke line of business software solutions within a complex enterprise and global environment."
   },
   {
-   "name": "Front End Web Developer",
+   "title": "Front End Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=8daf6e1f322dd24b&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "Manchester",
@@ -707,7 +707,7 @@
    "salary": "£35,400 a year"
   },
   {
-   "name": "Graduate Web Developer",
+   "title": "Graduate Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1c859c9a4aca3ba5&fccid=0b4be882f5944177&vjs=3",
    "company": "Ekm Systems",
    "location": "Preston",
@@ -715,14 +715,14 @@
    "salary": "£20,000 a year"
   },
   {
-   "name": "Associate Front End Developer",
+   "title": "Associate Front End Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=6cab480c47432ced&fccid=ddc9514d5206ef1c&vjs=3",
    "company": "Moneysupermarket Group",
    "location": "London W1D 3RB",
    "blurb": "As a front-end developer your primary focus will be working with various parts of the business to build front-end components using the latest frameworks built…"
   },
   {
-   "name": "C++ Developer Low Latency Prop Trading Market Making",
+   "title": "C++ Developer Low Latency Prop Trading Market Making",
    "url": "https://www.indeed.co.uk/rc/clk?jk=e65b41eae0629d76&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "London",
@@ -730,14 +730,14 @@
    "salary": "£115,000 a year"
   },
   {
-   "name": ".Net Developer",
+   "title": ".Net Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=10531206e43a9e6e&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "London",
    "blurb": "ASP.NET, AWS and Azure, ASP.\nNET Web API (C#), SQL Server Dba.\nMust have 3 - 5 years’ experience in ASP.\nNET projects and web services."
   },
   {
-   "name": "Sr. Developer",
+   "title": "Sr. Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c4da2a2a8809f0d8&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "Cambridge",
@@ -745,14 +745,14 @@
    "salary": "£400 a day"
   },
   {
-   "name": "Front End Web Developer - 12mth FTC",
+   "title": "Front End Web Developer - 12mth FTC",
    "url": "https://www.indeed.co.uk/rc/clk?jk=e16567121117ca21&fccid=036bc19eb1967067&vjs=3",
    "company": "Simplyhealth",
    "location": "Home Based",
    "blurb": "Based working from home, you’ll be working on a variety of projects that will see the delivery of developed solutions for Simplyhealth, advocating agile…"
   },
   {
-   "name": "Software Developer – SQL, .Net (Ref: PR1976)",
+   "title": "Software Developer – SQL, .Net (Ref: PR1976)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=978ffdc1098a019a&fccid=080d998493fd5f3f&vjs=3",
    "company": "Projentum",
    "location": "Liverpool",
@@ -760,28 +760,28 @@
    "salary": "£400 a day"
   },
   {
-   "name": "Backend / Quant Developer",
+   "title": "Backend / Quant Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3c1d2de6c47dbdee&fccid=66d394411dd2efad&vjs=3",
    "company": "kraken",
    "location": "London",
    "blurb": "At least 2 years of experience as a developer in similar capacity or research experience.\nBeing a backend developer you will also design and build services with…"
   },
   {
-   "name": "Digital Learning Resource Developer",
+   "title": "Digital Learning Resource Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=99ddca7ecc562bc1&fccid=c491c0ed78e46a6e&vjs=3",
    "company": "Gower College Swansea",
    "location": "Home Based",
    "blurb": "You will be part of a project team and provide technical support to develop high quality digital teaching and learning resources."
   },
   {
-   "name": "Technical Consultant - Graduate Programme",
+   "title": "Technical Consultant - Graduate Programme",
    "url": "https://www.indeed.co.uk/rc/clk?jk=7785aa6f95932156&fccid=e2e992ccb3e76d6f&vjs=3",
    "company": "Informed Solutions",
    "location": "London",
    "blurb": "The graduate programme at Informed Solutions will equip you with the necessary skills, experience and feedback needed to take ownership of your career…"
   },
   {
-   "name": "BACKEND DEVELOPER",
+   "title": "BACKEND DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=79130102aca884c9&fccid=1845b845b5c5b66e&vjs=3",
    "company": "Intec Select",
    "location": "London",
@@ -789,21 +789,21 @@
    "salary": "£65,000 - £75,000 a year"
   },
   {
-   "name": "Front End Developer (HTML5/CSS3/JavaScript)",
+   "title": "Front End Developer (HTML5/CSS3/JavaScript)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=7bfd81132dd375b9&fccid=aaff08d1fc7ba17f&vjs=3",
    "company": "Jumar Solutions Ltd",
    "location": "Willenhall WV12",
    "blurb": "Key Notes: - UK Government experience and work developing to meet Accessibility Standards (looking for Developers who have experience/knowledge of WCAG 2.1 AA…"
   },
   {
-   "name": "Graduate Developer",
+   "title": "Graduate Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d4a7af0a82b4cf57&fccid=7f08620df6911114&vjs=3",
    "company": "Adimo",
    "location": "Glasgow",
    "blurb": "To ensure success as a Graduate Developer you will be using a range of development tools and technologies to create new integrations used every day by users on…"
   },
   {
-   "name": "JUNIOR DEVELOPER",
+   "title": "JUNIOR DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c6e512abfa93999c&fccid=1845b845b5c5b66e&vjs=3",
    "company": "Intec Select",
    "location": "Marden",
@@ -811,28 +811,28 @@
    "salary": "£30,000 - £40,000 a year"
   },
   {
-   "name": "Oracle Junior Developer",
+   "title": "Oracle Junior Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c9c483cd91e8175d&fccid=e68bbdb327057681&vjs=3",
    "company": "SG Gaming",
    "location": "Feltham",
    "blurb": "The role requires a developer to work in a small development team to provide, development and support in order to help create and maintain application…"
   },
   {
-   "name": "Graduate Software Developer",
+   "title": "Graduate Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=29a577704f20c062&fccid=c1c5a17a314be0ca&vjs=3",
    "company": "Scott Logic Ltd",
    "location": "Edinburgh",
    "blurb": "You’ll work across web, mobile and desktop using a range of technologies including HTML5/JavaScript, C# .\nA lively induction week with your fellow graduates…"
   },
   {
-   "name": "Trainee Software Engineer",
+   "title": "Trainee Software Engineer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=bfa052e2abd23350&fccid=322f9bb2e7485afa&vjs=3",
    "company": "Teemill",
    "location": "Freshwater",
    "blurb": "We don't require any previous professional work experience for this role, but we do require that the successful applicant has good code experience, ideally in…"
   },
   {
-   "name": "PHP Developer",
+   "title": "PHP Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=240801aa92e46f66&fccid=883eedb220efb3a0&vjs=3",
    "company": "Okta Resourcing",
    "location": "Edinburgh",
@@ -840,35 +840,35 @@
    "salary": "£48,000 a year"
   },
   {
-   "name": "Senior Frontend Developer",
+   "title": "Senior Frontend Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=994c68571ac621fc&fccid=68a871ded2b5118d&vjs=3",
    "company": "PA Media",
    "location": "Home Based",
    "blurb": "As a senior front-end developer, we’d expect you to have a well proven track record of delivering web-based applications and possess excellent written and…"
   },
   {
-   "name": "Developer Relations Intern",
+   "title": "Developer Relations Intern",
    "url": "https://www.indeed.co.uk/rc/clk?jk=8bbc2607e5e6a50a&fccid=c1099851e9794854&vjs=3",
    "company": "Apple",
    "location": "London",
    "blurb": "Managing and developing relationships within the developer community.\nSupporting developer technology adoption requirements, through efficient working with…"
   },
   {
-   "name": "Full Stack Developer",
+   "title": "Full Stack Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=455a8f7979354813&fccid=34d0b546defb51bc&vjs=3",
    "company": "Skincity UK",
    "location": "Warrington WA1",
    "blurb": "Reporting to our CTO, the successful candidate will provide technical development and support the entire process from concept to production deploys."
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=89b3525a8948db50&fccid=42ccd87a2c182a30&vjs=3",
    "company": "DRW Trading Group",
    "location": "London",
    "blurb": "Design, develop, test and deploy proprietary software including:\nTrading strategy simulation software optimized for distributed computation."
   },
   {
-   "name": "Progress/OpenEdge Developer",
+   "title": "Progress/OpenEdge Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=281ec1dbbad772d8&fccid=447163ca34a4b3d8&vjs=3",
    "company": "Synapri",
    "location": "London",
@@ -876,7 +876,7 @@
    "salary": "£45,000 a year"
   },
   {
-   "name": "Application Developer",
+   "title": "Application Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=15ea2a6966423deb&fccid=d183c410e3b0c3d0&vjs=3",
    "company": "Voyage Care",
    "location": "Lichfield",
@@ -884,14 +884,14 @@
    "salary": "£27,000 a year"
   },
   {
-   "name": "WEB DEVELOPER APPRENTICE",
+   "title": "WEB DEVELOPER APPRENTICE",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a05939b8cefe7b0a&fccid=bbe59bb09a4eb5a9&vjs=3",
    "company": "Zatu Games",
    "location": "Norwich NR8 6QW",
    "blurb": "You would have the choice of gaining a Level 3 Software Development Technician Qualification or a Level 3 Business Administration Apprenticeship over the course…"
   },
   {
-   "name": "SQL Report Developer",
+   "title": "SQL Report Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=fe0878f87114c87a&fccid=72713e5b1ba0ef22&vjs=3",
    "company": "BT",
    "location": "Chesterfield",
@@ -899,7 +899,7 @@
    "salary": "£40,000 a year"
   },
   {
-   "name": "FULL STACK DEVELOPER",
+   "title": "FULL STACK DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=0affd66eaa9e24fa&fccid=89ad2b3ff2ad1d02&vjs=3",
    "company": "Dynamic Search Solutions",
    "location": "Home Based",
@@ -907,7 +907,7 @@
    "salary": "£40,000 - £50,000 a year"
   },
   {
-   "name": "C# ASP.NET MVC Developer",
+   "title": "C# ASP.NET MVC Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=154cd6f57c033eac&fccid=843a000489f8b691&vjs=3",
    "company": "Smartedge Solutions",
    "location": "West London",
@@ -915,14 +915,14 @@
    "salary": "£43,000 a year"
   },
   {
-   "name": "Software Development Engineer Graduate - 2021 (London, UK)",
+   "title": "Software Development Engineer Graduate - 2021 (London, UK)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1c00b736ebd708ad&fccid=fe2d21eef233e94a&vjs=3",
    "company": "Amazon Dev Centre (London) Ltd",
    "location": "London",
    "blurb": "Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design."
   },
   {
-   "name": "Developer",
+   "title": "Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=6ba1cfc9c8d0c9a0&fccid=c879a1ca5a62fcb1&vjs=3",
    "company": "UK Government - Government Digital Service",
    "location": "Bristol BS2 0ES",
@@ -930,21 +930,21 @@
    "salary": "£49,700 - £58,500 a year"
   },
   {
-   "name": "SQL Developer",
+   "title": "SQL Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d3c807d666e080cc&fccid=afbf8c270610a38a&vjs=3",
    "company": "Cigna",
    "location": "Glasgow G1 3RS",
    "blurb": "Provide troubleshooting and problem resolution for other MS SQL Server related issues including assisting web developers.\nGit or other source control expertise."
   },
   {
-   "name": "MCQ Shoes Product Developer",
+   "title": "MCQ Shoes Product Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=190258461e1a6777&fccid=2c1ebe710125ee82&vjs=3",
    "company": "Groupe Kering",
    "location": "London",
    "blurb": "The Shoes Product Developer will be responsible for the research and development of all shoes.\nThis role will work closely with the Accessories Product…"
   },
   {
-   "name": "QUANTITATIVE DEVELOPER (QUANT / C# / C++) – RISK/ACTUARIAL/I...",
+   "title": "QUANTITATIVE DEVELOPER (QUANT / C# / C++) – RISK/ACTUARIAL/I...",
    "url": "https://www.indeed.co.uk/rc/clk?jk=2bb2621e7250332e&fccid=697949eac720d460&vjs=3",
    "company": "Talent Locker",
    "location": "London",
@@ -952,7 +952,7 @@
    "salary": "£80,000 - £120,000 a year"
   },
   {
-   "name": "Web Developer",
+   "title": "Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=0d0a2f7ae1256743&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "Bristol",
@@ -960,7 +960,7 @@
    "salary": "£72,200 a year"
   },
   {
-   "name": ".Net Developer",
+   "title": ".Net Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=ec08f04392967c5b&fccid=e71a58404582e1b3&vjs=3",
    "company": "Saga",
    "location": "Folkestone",
@@ -968,14 +968,14 @@
    "salary": "£45,000 a year"
   },
   {
-   "name": "Technical Training Developer",
+   "title": "Technical Training Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=6516880a8cf5ab8a&fccid=160efb82f2462f14&vjs=3",
    "company": "Expedia Group",
    "location": "London EC1V 4EX",
    "blurb": "This is a team of learning designers, facilitators, program managers, and technical training developers and specialists."
   },
   {
-   "name": "Systems Developer - Ref 200916R",
+   "title": "Systems Developer - Ref 200916R",
    "url": "https://www.indeed.co.uk/rc/clk?jk=0186b476baf0b929&fccid=5fb714836a0053f9&vjs=3",
    "company": "Runshaw College",
    "location": "Leyland PR25 3DQ",
@@ -983,7 +983,7 @@
    "salary": "£30,072 a year"
   },
   {
-   "name": "Software Developer Apprentice – 07223",
+   "title": "Software Developer Apprentice – 07223",
    "url": "https://www.indeed.co.uk/rc/clk?jk=cbe33c3fe3956cb6&fccid=c7d36fed20e6ccc4&vjs=3",
    "company": "Baltic Apprenticeships",
    "location": "Preston",
@@ -991,21 +991,21 @@
    "salary": "£12,000 a year"
   },
   {
-   "name": "Front End Developer",
+   "title": "Front End Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d13a4e93496c6a84&fccid=3f509f25a6404035&vjs=3",
    "company": "Discovery Design",
    "location": "Durham",
    "blurb": "A good understanding of HTML5, CSS3.\nA good understanding of WordPress.\nA good understanding of usability & conversion optimisation."
   },
   {
-   "name": "Software Development Engineer Internship (London, UK)",
+   "title": "Software Development Engineer Internship (London, UK)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1f88dfa80079d5fc&fccid=fe2d21eef233e94a&vjs=3",
    "company": "Amazon Dev Centre (London) Ltd",
    "location": "London",
    "blurb": "Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design."
   },
   {
-   "name": "Junior Web Developer",
+   "title": "Junior Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c80e208d8f5ede6d&fccid=dbade4ef28afa9df&vjs=3",
    "company": "SF Recruitment",
    "location": "Wolverhampton",
@@ -1013,7 +1013,7 @@
    "salary": "£25,000 - £27,000 a year"
   },
   {
-   "name": "Housing Systems Developer",
+   "title": "Housing Systems Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=6f103833a5ca452d&fccid=9dbf661f5293a80e&vjs=3",
    "company": "Citizen",
    "location": "Birmingham B37 7YN",
@@ -1021,7 +1021,7 @@
    "salary": "£33,270 - £37,861 a year"
   },
   {
-   "name": "WordPress Developer",
+   "title": "WordPress Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d18f7ff40e824509&fccid=dbade4ef28afa9df&vjs=3",
    "company": "SF Recruitment",
    "location": "Birmingham",
@@ -1029,28 +1029,28 @@
    "salary": "£200 - £300 a day"
   },
   {
-   "name": "Front-end Developer Brick HQ",
+   "title": "Front-end Developer Brick HQ",
    "url": "https://www.indeed.co.uk/rc/clk?jk=5a9e164c48afb9c1&fccid=566af09abe3b260e&vjs=3",
    "company": "Brickweb",
    "location": "Chorley",
    "blurb": "You will work directly with our Managing Director and bridge the gap between graphical design and technical implementation with direct communication with our…"
   },
   {
-   "name": "Java Developer",
+   "title": "Java Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a6582b58845eb1a6&fccid=5bd99dfa21c8a490&vjs=3",
    "company": "Bank of America",
    "location": "Bromley",
    "blurb": "Deliver technical solutions by managing all phases of software development life cycle.\nAnalyse business or technical requirements within the EMEA Reference Data…"
   },
   {
-   "name": "Invention Developer",
+   "title": "Invention Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c6e90e67ec27634e&fccid=ca9185a091c4aff9&vjs=3",
    "company": "Iprova",
    "location": "London",
    "blurb": "A first degree in a physical science or engineering, with strong GPA or equivalent.\nA certain level of industry experience working in technical design, product…"
   },
   {
-   "name": "GRADUATE WEB DEVELOPER",
+   "title": "GRADUATE WEB DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d95f60a0b7471ead&fccid=d750b9c8dce00180&vjs=3",
    "company": "Inspiring Interns",
    "location": "Newcastle upon Tyne",
@@ -1058,7 +1058,7 @@
    "salary": "£18,000 a year"
   },
   {
-   "name": "C++ Developer - Shell Scripting - Websphere MQ",
+   "title": "C++ Developer - Shell Scripting - Websphere MQ",
    "url": "https://www.indeed.co.uk/rc/clk?jk=39acacc0c400561a&fccid=80add86c08f4e179&vjs=3",
    "company": "Kite Group",
    "location": "London",
@@ -1066,14 +1066,14 @@
    "salary": "£400 - £450 a day"
   },
   {
-   "name": "Web Developer Apprentice",
+   "title": "Web Developer Apprentice",
    "url": "https://www.indeed.co.uk/rc/clk?jk=289a0a1ceff121bb&fccid=6339d3fc7ab86edb&vjs=3",
    "company": "Remit Group",
    "location": "Stockton-on-Tees TS18 2PN",
    "blurb": "Remit are recruiting on behalf of our client Spot2Spot to find a talent they can nurture into a professional web developer."
   },
   {
-   "name": "Senior Software Developer",
+   "title": "Senior Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=7710b5857734270a&fccid=92e970dff96fa9dc&vjs=3",
    "company": "Applexus",
    "location": "London",
@@ -1081,14 +1081,14 @@
    "salary": "£36,000 a year"
   },
   {
-   "name": "Full Stack Developer",
+   "title": "Full Stack Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1a2d8a1f34638367&fccid=593f2dd4c6cb5ff9&vjs=3",
    "company": "Cherrywhite",
    "location": "Wokingham",
    "blurb": "We are looking for a highly skilled computer programmer who is comfortable with both front and back end programming.\nHigh level to attention to detail."
   },
   {
-   "name": "SOFTWARE DEVELOPER ( MOSAIC )",
+   "title": "SOFTWARE DEVELOPER ( MOSAIC )",
    "url": "https://www.indeed.co.uk/rc/clk?jk=138489782a40603e&fccid=1845b845b5c5b66e&vjs=3",
    "company": "Intec Select",
    "location": "Morden",
@@ -1096,7 +1096,7 @@
    "salary": "£350 - £400 a week"
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=880d3681022a4656&fccid=0fc513b606a9b68e&vjs=3",
    "company": "Ardonagh",
    "location": "Preston PR5 0UJ",
@@ -1104,21 +1104,21 @@
    "salary": "£22,500 a year"
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=cb5e73b8d5ae4aad&fccid=881bda706178bde0&vjs=3",
    "company": "AKT II",
    "location": "London",
    "blurb": "Experience working in parallel with 2 or more developers on a single code base.\nIn recent years AKT II has formed an in-house Development Team – comprised of…"
   },
   {
-   "name": "Back End Developer Internship",
+   "title": "Back End Developer Internship",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d193628a111402c0&fccid=4d45cd86e15de304&vjs=3",
    "company": "European Student Placement Agency (ESPA)",
    "location": "Birmingham",
    "blurb": "This is a fantastic opportunity for proactive Back-End Software Engineering student to gain invaluable experience in this innovative start-up company."
   },
   {
-   "name": "Developer",
+   "title": "Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=f23e33bfe1d2afa3&fccid=b2debea9933d1ff1&vjs=3",
    "company": "NHS Digital",
    "location": "Leeds LS1 6AE",
@@ -1126,28 +1126,28 @@
    "salary": "£38,890 a year"
   },
   {
-   "name": "Front End / Full Stack Mid-Level Developer",
+   "title": "Front End / Full Stack Mid-Level Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=8176f574300eb434&fccid=4c7fefc2ba8be7e9&vjs=3",
    "company": "Reach",
    "location": "London",
    "blurb": "The roles will involve contributing to the Actionable Journalism project, which will enable users to take relevant and rewarding actions in response to articles…"
   },
   {
-   "name": "Full Stack NodeJS Developer",
+   "title": "Full Stack NodeJS Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=e54e122d8a130e51&fccid=114ee7a2c614cc08&vjs=3",
    "company": "Arnet IT Solutions",
    "location": "Home Based",
    "blurb": "We are looking for full stack NodeJS engineers with React or Angular knowledge.\nHave at least 1 year of experience developing web applications, software, or…"
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a997069c22f1197e&fccid=f3acb712b3c756f6&vjs=3",
    "company": "Hitachi Capital UK",
    "location": "Leeds",
    "blurb": "You will be accountable for development from inception, elaboration and analysis, right though the SDLC to deployment."
   },
   {
-   "name": "Business Intelligence Developer",
+   "title": "Business Intelligence Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=607bbe1c494de5c7&fccid=a16fa495e1271557&vjs=3",
    "company": "East Sussex County Council",
    "location": "Lewes",
@@ -1155,7 +1155,7 @@
    "salary": "£29,594 - £31,968 a year"
   },
   {
-   "name": "Back End Developer",
+   "title": "Back End Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=970f932215bb48e8&fccid=8c6e29466828cf34&vjs=3",
    "company": "PCR Digital",
    "location": "London",
@@ -1163,7 +1163,7 @@
    "salary": "£350 - £400 a day"
   },
   {
-   "name": "Junior Web Developer/Designer",
+   "title": "Junior Web Developer/Designer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3ee900638410f1e9&fccid=eb540a972379c2ec&vjs=3",
    "company": "META",
    "location": "Hessle",
@@ -1171,28 +1171,28 @@
    "salary": "£18,000 - £20,000 a year"
   },
   {
-   "name": "Web developers - Full Stack or Front End",
+   "title": "Web developers - Full Stack or Front End",
    "url": "https://www.indeed.co.uk/rc/clk?jk=7f5034544ae54692&fccid=34d66d291225cd9e&vjs=3",
    "company": "ionCube Ltd.",
    "location": "Canterbury CT3 4GP",
    "blurb": "In this role you will play a key part in the overall design process and product evolution, creating new features and not just patching old, using some of the…"
   },
   {
-   "name": "Software developer - C++/ QT",
+   "title": "Software developer - C++/ QT",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a590f688f2f6ffa1&fccid=6b1fe75792aca031&vjs=3",
    "company": "MAINAMA GAMES",
    "location": "Haslemere",
    "blurb": "We are currently looking for software developers with strong C++/QT expertise responsible for technical implementation, delivering creative and robust solutions…"
   },
   {
-   "name": "Curriculum Developer (Remote)",
+   "title": "Curriculum Developer (Remote)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=86dad9caf2966bcc&fccid=353eb997fc901045&vjs=3",
    "company": "Veeva Systems",
    "location": "Oxford",
    "blurb": "The curriculum developer will be responsible for the creation of product training courses that enable customers, partners, and employees to effectively use,…"
   },
   {
-   "name": "Digital Learning Developer",
+   "title": "Digital Learning Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c53eda4fafe0067c&fccid=029390e3ff31188c&vjs=3",
    "company": "South London and Maudsley NHS Foundation Trust",
    "location": "London BR3 3BX",
@@ -1200,14 +1200,14 @@
    "salary": "£28,691 - £35,207 a year"
   },
   {
-   "name": "Power Platform Dashboard Developer",
+   "title": "Power Platform Dashboard Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=810139216b53183e&fccid=38a7085c8a5f673e&vjs=3",
    "company": "Expert Employment",
    "location": "London",
    "blurb": "You will be create complex dashboards that report on internal and external Software deliveries focusing on digital transformation and reporting automation."
   },
   {
-   "name": "Developer",
+   "title": "Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3a8eb9e4ff416002&fccid=c1e2ea4c9162208f&vjs=3",
    "company": "Ofgem",
    "location": "London",
@@ -1215,7 +1215,7 @@
    "salary": "£30,950 - £39,779 a year"
   },
   {
-   "name": "Golang Developer",
+   "title": "Golang Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=17ca77fba0717a38&fccid=7aef5b7cd2ff225c&vjs=3",
    "company": "Jefferson Wolfe",
    "location": "London",
@@ -1223,14 +1223,14 @@
    "salary": "£70,000 a year"
   },
   {
-   "name": "ETL Developer (Informatica)",
+   "title": "ETL Developer (Informatica)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=121df8d322f9019f&fccid=9526cf37acc8babe&vjs=3",
    "company": "Direct Line Group",
    "location": "Bromley",
    "blurb": "Providing direction and support to the junior Informatica developers.\nYou will be valued and looked to for inspiration, with clear goals and autonomy as well as…"
   },
   {
-   "name": "Applications Developer - Headquarters - Digital Technology S...",
+   "title": "Applications Developer - Headquarters - Digital Technology S...",
    "url": "https://www.indeed.co.uk/rc/clk?jk=8e47cd26b8ca7418&fccid=08417d4de402109c&vjs=3",
    "company": "UK Government - Crown Prosecution Service",
    "location": "Birmingham",
@@ -1238,28 +1238,28 @@
    "salary": "£29,535 - £32,817 a year"
   },
   {
-   "name": "Junior Software Developer in Test (SDET)",
+   "title": "Junior Software Developer in Test (SDET)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=4287baf5dab69e81&fccid=4b6eea2bd529b76e&vjs=3",
    "company": "Accesso",
    "location": "Twyford",
    "blurb": "Working collaboratively with developers so that test failures are found as early as possible.\nWe move quickly and look for team members with excellent problem…"
   },
   {
-   "name": "C# Developer",
+   "title": "C# Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=dfdd9f4b1bf74384&fccid=01f06b03d12158d7&vjs=3",
    "company": "Comma Group",
    "location": "Warwick",
    "blurb": "The role will generally work as part of a small project team, alongside a Business Consultant, Application Specialist and potentially a Data Consultant."
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=fcda82e4f5c538df&fccid=54ef9b204f05fb41&vjs=3",
    "company": "soVIsion IT",
    "location": "Bristol",
    "blurb": "We are looking for a flexible and experienced software developer to join us on a permanent basis to work with us on a growing project workload."
   },
   {
-   "name": "Vue JavaScript Developer",
+   "title": "Vue JavaScript Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=48054357393a5a50&fccid=5bba21dab6181064&vjs=3",
    "company": "Harrington Starr",
    "location": "London",
@@ -1267,14 +1267,14 @@
    "salary": "£40,000 - £60,000 a year"
   },
   {
-   "name": "C++ Developer - Candy Crush Friends Saga",
+   "title": "C++ Developer - Candy Crush Friends Saga",
    "url": "https://www.indeed.co.uk/rc/clk?jk=43a1af05cabb66a9&fccid=5f2cea8400b4965b&vjs=3",
    "company": "King.com",
    "location": "London",
    "blurb": "As well as the engines, systems and platforms that make them play brilliantly on any platform.\nDesigning, testing and implementing game features."
   },
   {
-   "name": "Client Side Developer",
+   "title": "Client Side Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=751f5ddf710c1682&fccid=e35c5b96d66d895e&vjs=3",
    "company": "Guardian News & Media",
    "location": "London N1",
@@ -1282,7 +1282,7 @@
    "salary": "£49,600 a year"
   },
   {
-   "name": "IBM ACE Integration Developer",
+   "title": "IBM ACE Integration Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=79243236430234ce&fccid=879d55e536311c32&vjs=3",
    "company": "Data Careers",
    "location": "High Wycombe HP11",
@@ -1290,21 +1290,21 @@
    "salary": "£600 - £650 a day"
   },
   {
-   "name": "Software Engineering Apprentice",
+   "title": "Software Engineering Apprentice",
    "url": "https://www.indeed.co.uk/rc/clk?jk=e275fbe49183ea66&fccid=322f9bb2e7485afa&vjs=3",
    "company": "Teemill",
    "location": "Freshwater",
    "blurb": "Our coding apprenticeship programme takes people who love solving problems & who understand the basics of code, and turns them into professional web developers."
   },
   {
-   "name": "Software Engineer, Product",
+   "title": "Software Engineer, Product",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b59d55e99a491a77&fccid=1639254ea84748b5&vjs=3",
    "company": "Facebook",
    "location": "London",
    "blurb": "Full stack web/mobile application development with a variety of coding languages.\nCreate consumer products and features using internal programming language Hack…"
   },
   {
-   "name": "Front-end Developer",
+   "title": "Front-end Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1960748dafb598ef&fccid=3e983d79737f30bd&vjs=3",
    "company": "TalentPool",
    "location": "London N1",
@@ -1312,7 +1312,7 @@
    "salary": "£35,000 a year"
   },
   {
-   "name": "Java Developer",
+   "title": "Java Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c350a985dfba7485&fccid=ad1714ea0182c11f&vjs=3",
    "company": "Deerfoot I.T. Resources Ltd",
    "location": "Milton Keynes MK17",
@@ -1320,7 +1320,7 @@
    "salary": "£60,000 - £75,000 a year"
   },
   {
-   "name": "Low Latency Java Developer",
+   "title": "Low Latency Java Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1d6f6d0d0728e03f&fccid=5bba21dab6181064&vjs=3",
    "company": "Harrington Starr",
    "location": "London",
@@ -1328,14 +1328,14 @@
    "salary": "£90,000 - £120,000 a year"
   },
   {
-   "name": "Placement Developer - 12 months (Based in Leicester)",
+   "title": "Placement Developer - 12 months (Based in Leicester)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a07036276e480a1f&fccid=441a5327d1731f8a&vjs=3",
    "company": "Next PLC",
    "location": "Enderby",
    "blurb": "Business Intelligence are responsible for transforming vast amounts of business data into meaningful information that the business relies upon."
   },
   {
-   "name": "Graduate Software Developer",
+   "title": "Graduate Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=2e874d63466032ba&fccid=767989bf5a3c1f52&vjs=3",
    "company": "Auto Trader UK",
    "location": "Manchester",
@@ -1343,14 +1343,14 @@
    "salary": "£26,000 a year"
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b806811190c38c31&fccid=a8f329dd0b768fb7&vjs=3",
    "company": "Dematic",
    "location": "Banbury OX17 3SN",
    "blurb": "This person will work directly with other CET developers to understand the platform in which Dematic integrates.\nContinually improve the quality of UI code."
   },
   {
-   "name": "Front End Developer",
+   "title": "Front End Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=cdbe87a846999263&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "Liverpool",
@@ -1358,7 +1358,7 @@
    "salary": "£36,400 a year"
   },
   {
-   "name": "Graduate Software Developers",
+   "title": "Graduate Software Developers",
    "url": "https://www.indeed.co.uk/rc/clk?jk=155ecec4e6f062e3&fccid=d4728f76cc95b9da&vjs=3",
    "company": "NetPay Merchant Services",
    "location": "Hedge End",
@@ -1366,14 +1366,14 @@
    "salary": "£32,000 a year"
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=42664e9536cf7413&fccid=25b9aa55f7b71e5c&vjs=3",
    "company": "GHD",
    "location": "Newcastle upon Tyne",
    "blurb": "Our breadth of technical expertise combined with executive-level industry relationships means we deliver strong commercial solutions for our clients, and…"
   },
   {
-   "name": "Java Developer - Investment Bank £80,000",
+   "title": "Java Developer - Investment Bank £80,000",
    "url": "https://www.indeed.co.uk/rc/clk?jk=aec29f265f64a50e&fccid=5bba21dab6181064&vjs=3",
    "company": "Harrington Starr",
    "location": "London",
@@ -1381,28 +1381,28 @@
    "salary": "£70,000 - £80,000 a year"
   },
   {
-   "name": "2021 UK Graduate Software Developer",
+   "title": "2021 UK Graduate Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d027d8da09190169&fccid=edb4bf50a19b70a9&vjs=3",
    "company": "Mott MacDonald",
    "location": "London",
    "blurb": "Specifically, you will help shape solutions to client needs, preparing engineering algorithms and sense making analytics within our cloud environment."
   },
   {
-   "name": "Junior .net Developer",
+   "title": "Junior .net Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=11cb6f9701c267c4&fccid=5a561b881a376547&vjs=3",
    "company": "Mountain Warehouse",
    "location": "London",
    "blurb": "Ability to solve problems in code quickly and simply.\nGood understanding of how http and network communication works.\nTraining budget after 1st year."
   },
   {
-   "name": "IM&T Associate - Business Intelligence Developer",
+   "title": "IM&T Associate - Business Intelligence Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b77aba81c59e136e&fccid=200a825acadb9338&vjs=3",
    "company": "BAE Systems",
    "location": "Barrow-In-Furness",
    "blurb": "As a IM&T Associate, you will be managing and coordinating activities and participate in all aspects of the full project and systems lifecycle, ensuring the…"
   },
   {
-   "name": "Full Stack Developer",
+   "title": "Full Stack Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=5b6f58785e23958e&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "Sheffield",
@@ -1410,84 +1410,84 @@
    "salary": "£42,300 a year"
   },
   {
-   "name": "C++ Developer",
+   "title": "C++ Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3a2d8fd05d532284&fccid=306f81e1483f7d82&vjs=3",
    "company": "Intercontinental Exchange",
    "location": "London",
    "blurb": "Design, develop and maintain software to support exchange and contributor data feeds on a real time ticker plant."
   },
   {
-   "name": "Front End Developer - Mobile & Web",
+   "title": "Front End Developer - Mobile & Web",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3eca67dc3d01cf6f&fccid=1d5c3ef53c52544f&vjs=3",
    "company": "Square One Resources",
    "location": "High Wycombe HP11",
    "blurb": "Mobile & Web Developer (Remotely based) My client is a leading asset management consultancy that helps clients to see a tangible return on investment, which…"
   },
   {
-   "name": "Software Engineering Apprentices",
+   "title": "Software Engineering Apprentices",
    "url": "https://www.indeed.co.uk/rc/clk?jk=30a847d18c29ad3c&fccid=231c81d7782c6a21&vjs=3",
    "company": "MI5",
    "location": "London",
    "blurb": "The majority work in Scrum or Kanban.\nOn the front end we’re mostly JavaScript focussed, employing frameworks such as React.js."
   },
   {
-   "name": "Full-stack developer - Mid Level",
+   "title": "Full-stack developer - Mid Level",
    "url": "https://www.indeed.co.uk/rc/clk?jk=59b53779af40b8d0&fccid=068942e87177f3e0&vjs=3",
    "company": "Contilio",
    "location": "London",
    "blurb": "We use 3D AI and big data analytics to build the intelligent control room for the $12Trn construction industry and enable real-time payments."
   },
   {
-   "name": "C# developer",
+   "title": "C# developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=68039630523a6b6f&fccid=146443e77d8c0778&vjs=3",
    "company": "Virtusa",
    "location": "London",
    "blurb": "Interpret written business and functional requirements and develop technical specification documents.\nPerform code development, maintenance and testing."
   },
   {
-   "name": "Salesforce Developer/Salesforce Specialist",
+   "title": "Salesforce Developer/Salesforce Specialist",
    "url": "https://www.indeed.co.uk/rc/clk?jk=5d272811fefe4e8b&fccid=572c70d4b878cbef&vjs=3",
    "company": "Networkers",
    "location": "Bournemouth BH6",
    "blurb": "This job role will see the successful applicant tasked with ensuring the delivery of the Salesforce system configuration and support, and ultimately continued…"
   },
   {
-   "name": "Informatics Scientist, Developer",
+   "title": "Informatics Scientist, Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c6530ad2557fbc14&fccid=0c9f6235d127268c&vjs=3",
    "company": "Evotec",
    "location": "Abingdon",
    "blurb": "As part of the Research Informatics, Scientific Data Management Group, you will provide support to Drug Discovery applications and Informatics projects and thus…"
   },
   {
-   "name": "Entry-level Software Engineer",
+   "title": "Entry-level Software Engineer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=9cd944aa85929571&fccid=28d541df71b2f171&vjs=3",
    "company": "TripAdvisor",
    "location": "Oxford",
    "blurb": "Code! Most of our engineers release code to production every few days and we have a daily release cycle.\nOperate across our evolving technology stack - we’re…"
   },
   {
-   "name": "Software Developer graduate programme - Osterley",
+   "title": "Software Developer graduate programme - Osterley",
    "url": "https://www.indeed.co.uk/rc/clk?jk=fee27e7576e0b667&fccid=288ce4c9ce99f179&vjs=3",
    "company": "Sky",
    "location": "Osterley",
    "blurb": "Collaborate with our software teams across the globe on video streaming platforms.\nCreate software technology that influences the way they watch their favourite…"
   },
   {
-   "name": "Node.js Back-End Developer (m/f/d)",
+   "title": "Node.js Back-End Developer (m/f/d)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=fbd42ed629986f9a&fccid=e4f4ad3e4ab822be&vjs=3",
    "company": "Xara Group Ltd",
    "location": "Hemel Hempstead",
    "blurb": "Remotely: If remote then you must be within +/- 3 hours of UK time, and there will be occasional visits for face to face meetings with the rest of the team,…"
   },
   {
-   "name": "C/C++ Developer",
+   "title": "C/C++ Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=2376582d370e7832&fccid=34d66d291225cd9e&vjs=3",
    "company": "ionCube Ltd.",
    "location": "Canterbury CT3 4GP",
    "blurb": "A passion for problem solving and a natural talent at object oriented and multi-threaded programming within a Windows and/or Unix/Linux environment is an…"
   },
   {
-   "name": "Web Developer",
+   "title": "Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=4eaeb33bb1a55c8d&fccid=a7a4e81f4cf6d85d&vjs=3",
    "company": "Clear Vertical",
    "location": "Blisworth",
@@ -1495,14 +1495,14 @@
    "salary": "£24,000 - £28,000 a year"
   },
   {
-   "name": "FRONT END DEVELOPER",
+   "title": "FRONT END DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3c543521b92c3e3c&fccid=55fccadc783ae54d&vjs=3",
    "company": "Dr Martens",
    "location": "London",
    "blurb": "Dr. Martens is looking for a talented and enthusiastic Front-End Developer to help with their program of work in the digital space."
   },
   {
-   "name": "Junior Full Stack Developer",
+   "title": "Junior Full Stack Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=399e32755f1599dd&fccid=a022c3a04e70fc9d&vjs=3",
    "company": "Oscar Technology",
    "location": "Bristol",
@@ -1510,21 +1510,21 @@
    "salary": "£28,000 - £35,000 a year"
   },
   {
-   "name": "Graduate Software Developer",
+   "title": "Graduate Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b594ce9a17087761&fccid=ce16f1075aa729b2&vjs=3",
    "company": "S-Cube",
    "location": "London SW7 2PG",
    "blurb": "We have a keen learning culture, and will allow time for training and teaching of latest technologies.\nCreating python scripts and APIs to work on AWS for…"
   },
   {
-   "name": "Full Stack Developer",
+   "title": "Full Stack Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d331ab63c185a534&fccid=bfef2b2da6904e2a&vjs=3",
    "company": "Wunderman",
    "location": "London",
    "blurb": "3+ years of developer experience - preferably as a Fullstack/Web Developer.\nWunderman Thompson Centre of Excellence for Marketing Automation and Personalization…"
   },
   {
-   "name": "RPG Developer",
+   "title": "RPG Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b943e8789ef96223&fccid=1dd6479bce1f7f29&vjs=3",
    "company": "Proactive IT",
    "location": "Stoke-on-Trent",
@@ -1532,21 +1532,21 @@
    "salary": "£30,000 - £40,000 a year"
   },
   {
-   "name": "London - Graduate Software Developer",
+   "title": "London - Graduate Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=70c294701e60e73f&fccid=2525ee368b671cd8&vjs=3",
    "company": "FDM Group",
    "location": "London",
    "blurb": "As a software developer, you will be key to delivering technology solutions.\nYou will learn how to write code that is modular, robust and scalable, design and…"
   },
   {
-   "name": "Embedded Firmware Full Stack Developer, Stroud",
+   "title": "Embedded Firmware Full Stack Developer, Stroud",
    "url": "https://www.indeed.co.uk/rc/clk?jk=9120add1a4dc914b&fccid=38a7085c8a5f673e&vjs=3",
    "company": "Expert Employment",
    "location": "Stroud",
    "blurb": "You will have a strong BSc, MSc, PhD or equivalent in Science or Engineering with low level software development.\nC & Assembly languages with some C# & C++."
   },
   {
-   "name": "WEB DESIGNER & DEVELOPER (ARTS SECTOR)",
+   "title": "WEB DESIGNER & DEVELOPER (ARTS SECTOR)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=8c68c4c4c912f229&fccid=b2524f062a942b0c&vjs=3",
    "company": "Guru",
    "location": "London SW9",
@@ -1554,7 +1554,7 @@
    "salary": "£35,000 - £50,000 a year"
   },
   {
-   "name": "Software Development Apprentice – 07874",
+   "title": "Software Development Apprentice – 07874",
    "url": "https://www.indeed.co.uk/rc/clk?jk=886110b154f124f4&fccid=c7d36fed20e6ccc4&vjs=3",
    "company": "Baltic Apprenticeships",
    "location": "Liverpool",
@@ -1562,28 +1562,28 @@
    "salary": "£10,000 a year"
   },
   {
-   "name": "UI DEVELOPER",
+   "title": "UI DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=6b300bf0fb6f1a9c&fccid=d7c8609e6f198b60&vjs=3",
    "company": "FLYING STARS INFORMATICS",
    "location": "Slough SL3 7LE",
    "blurb": "Delivering a complete front end application with complete flow.\nEnsuring high performance in loading screens.\nBuild reusable code and libraries for future use."
   },
   {
-   "name": "London - Graduate Software Developer",
+   "title": "London - Graduate Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=70c294701e60e73f&fccid=2525ee368b671cd8&vjs=3",
    "company": "FDM Group",
    "location": "London",
    "blurb": "As a software developer, you will be key to delivering technology solutions.\nYou will learn how to write code that is modular, robust and scalable, design and…"
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b806811190c38c31&fccid=a8f329dd0b768fb7&vjs=3",
    "company": "Dematic",
    "location": "Banbury OX17 3SN",
    "blurb": "This person will work directly with other CET developers to understand the platform in which Dematic integrates.\nContinually improve the quality of UI code."
   },
   {
-   "name": "Business Intelligence Developer",
+   "title": "Business Intelligence Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=607bbe1c494de5c7&fccid=a16fa495e1271557&vjs=3",
    "company": "East Sussex County Council",
    "location": "Lewes",
@@ -1591,14 +1591,14 @@
    "salary": "£29,594 - £31,968 a year"
   },
   {
-   "name": "iOS Developer",
+   "title": "iOS Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=67a6671be10a0124&fccid=bc5d47db23015b99&vjs=3",
    "company": "Oddschecker Global Media",
    "location": "Hammersmith",
    "blurb": "Build and maintain the core oddschecker iOS application.\nParticipate in daily stand-ups, sprint planning and estimation."
   },
   {
-   "name": "BI Developer",
+   "title": "BI Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=f4fea97295ae27d6&fccid=9fa051801df398c4&vjs=3",
    "company": "Crimson Macaw",
    "location": "Manchester M2",
@@ -1606,28 +1606,28 @@
    "salary": "£30,000 - £50,000 a year"
   },
   {
-   "name": "Graduate Developer",
+   "title": "Graduate Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=35bafb28f3257c36&fccid=0dc163bd483825f1&vjs=3",
    "company": "proventeq",
    "location": "Reading",
    "blurb": "This role involves design and development of cutting-edge software applications targeting Cloud migration and Digital transformation initiatives for our global…"
   },
   {
-   "name": "Salesforce Developer/Salesforce Specialist",
+   "title": "Salesforce Developer/Salesforce Specialist",
    "url": "https://www.indeed.co.uk/rc/clk?jk=5d272811fefe4e8b&fccid=572c70d4b878cbef&vjs=3",
    "company": "Networkers",
    "location": "Bournemouth BH6",
    "blurb": "This job role will see the successful applicant tasked with ensuring the delivery of the Salesforce system configuration and support, and ultimately continued…"
   },
   {
-   "name": "Entry-level Software Engineer",
+   "title": "Entry-level Software Engineer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=9cd944aa85929571&fccid=28d541df71b2f171&vjs=3",
    "company": "TripAdvisor",
    "location": "Oxford",
    "blurb": "Code! Most of our engineers release code to production every few days and we have a daily release cycle.\nOperate across our evolving technology stack - we’re…"
   },
   {
-   "name": "WEB DESIGNER & DEVELOPER (ARTS SECTOR)",
+   "title": "WEB DESIGNER & DEVELOPER (ARTS SECTOR)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=8c68c4c4c912f229&fccid=b2524f062a942b0c&vjs=3",
    "company": "Guru",
    "location": "London SW9",
@@ -1635,7 +1635,7 @@
    "salary": "£35,000 - £50,000 a year"
   },
   {
-   "name": "Graduate software developer",
+   "title": "Graduate software developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=37aa950e17f9e45d&fccid=cfb05337329a8ef0&vjs=3",
    "company": "PortSwigger",
    "location": "Knutsford",
@@ -1643,21 +1643,21 @@
    "salary": "£50,000 a year"
   },
   {
-   "name": "BACK END DEVELOPER (M/F) – LONDON – REF AC",
+   "title": "BACK END DEVELOPER (M/F) – LONDON – REF AC",
    "url": "https://www.indeed.co.uk/rc/clk?jk=5669606dce785373&fccid=9b2ef74567603efb&vjs=3",
    "company": "Fortil",
    "location": "London",
    "blurb": "FORTIL UK guides start-ups and big groups and meet their needs by providing skilled and talented project teams and individual consultants."
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=e5a76ca3bcf9c264&fccid=f3ab5ade4709df0b&vjs=3",
    "company": "RIMES Technologies Corporation",
    "location": "London",
    "blurb": "Private equity backed RIMES is a leading global provider of Managed Data Services (MDS) and regulatory technology (RegTech) software solutions which address the…"
   },
   {
-   "name": "Web Developer",
+   "title": "Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=4eaeb33bb1a55c8d&fccid=a7a4e81f4cf6d85d&vjs=3",
    "company": "Clear Vertical",
    "location": "Blisworth",
@@ -1665,14 +1665,14 @@
    "salary": "£24,000 - £28,000 a year"
   },
   {
-   "name": "Laravel PHP Developer",
+   "title": "Laravel PHP Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=04e7a51c45e45627&fccid=f8eb8548c96bccf1&vjs=3",
    "company": "Parallax Agency",
    "location": "Leeds",
    "blurb": "We do regular hack-days, we provide accredited training and we place a big focus on professional development.\nDecent JavaScript knowledge and experience."
   },
   {
-   "name": "FULL STACK DEVELOPER",
+   "title": "FULL STACK DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b8ea744842f635e8&fccid=1845b845b5c5b66e&vjs=3",
    "company": "Intec Select",
    "location": "London",
@@ -1680,14 +1680,14 @@
    "salary": "£600 - £650 a week"
   },
   {
-   "name": "Back End Developer",
+   "title": "Back End Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=295e51fc0802275a&fccid=dbf7c402233af7b8&vjs=3",
    "company": "SoulTek",
    "location": "Edinburgh",
    "salary": "£45,000 - £60,000 a year"
   },
   {
-   "name": "Low Latency Java Developer",
+   "title": "Low Latency Java Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1d6f6d0d0728e03f&fccid=5bba21dab6181064&vjs=3",
    "company": "Harrington Starr",
    "location": "London",
@@ -1695,21 +1695,21 @@
    "salary": "£90,000 - £120,000 a year"
   },
   {
-   "name": "Informatics Scientist, Developer",
+   "title": "Informatics Scientist, Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c6530ad2557fbc14&fccid=0c9f6235d127268c&vjs=3",
    "company": "Evotec",
    "location": "Abingdon",
    "blurb": "As part of the Research Informatics, Scientific Data Management Group, you will provide support to Drug Discovery applications and Informatics projects and thus…"
   },
   {
-   "name": "IM&T Associate - Business Intelligence Developer",
+   "title": "IM&T Associate - Business Intelligence Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b77aba81c59e136e&fccid=200a825acadb9338&vjs=3",
    "company": "BAE Systems",
    "location": "Barrow-In-Furness",
    "blurb": "As a IM&T Associate, you will be managing and coordinating activities and participate in all aspects of the full project and systems lifecycle, ensuring the…"
   },
   {
-   "name": "Mobile Developer",
+   "title": "Mobile Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=3802acd5c0b68530&fccid=d843c2e1cb0bfd05&vjs=3",
    "company": "The Bridge",
    "location": "Newcastle upon Tyne",
@@ -1717,7 +1717,7 @@
    "salary": "£27,000 - £45,000 a year"
   },
   {
-   "name": "Software Developer or Software Engineer",
+   "title": "Software Developer or Software Engineer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=6fc3359192e6b827&fccid=3de99f351fb4b669&vjs=3",
    "company": "The University of Manchester",
    "location": "Manchester M1 6FU",
@@ -1725,21 +1725,21 @@
    "salary": "£32,816 - £40,322 a year"
   },
   {
-   "name": "Applications Developer",
+   "title": "Applications Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=edcf3c2183fb900c&fccid=728c395148e5a2db&vjs=3",
    "company": "FIS Global",
    "location": "Manchester M3",
    "blurb": "Experienced (relevant combo of work and education).\nIn this role you will be responsible for developing new solutions and enhancing existing solutions on SQL…"
   },
   {
-   "name": ".Net Developer/CRM Developer",
+   "title": ".Net Developer/CRM Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=ab25ce9f9d9ea604&fccid=1214cf0a42abe4eb&vjs=3",
    "company": "Capita Plc",
    "location": "York",
    "blurb": "Participates in development, testing and delivery of software products or components.\nThe CRM Developer role will assist with the on-going development,…"
   },
   {
-   "name": "Immersive Learning Developer",
+   "title": "Immersive Learning Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=48666238479624e4&fccid=0458a9eaac228d88&vjs=3",
    "company": "College of Policing",
    "location": "Ryton",
@@ -1747,7 +1747,7 @@
    "salary": "£29,283 - £34,932 a year"
   },
   {
-   "name": "Web Developer",
+   "title": "Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1f4dca786fd0d8ac&fccid=bfcb15b98347c190&vjs=3",
    "company": "Nottingham Trent University",
    "location": "Nottingham",
@@ -1755,7 +1755,7 @@
    "salary": "£28,331 - £32,817 a year"
   },
   {
-   "name": "Web Developer",
+   "title": "Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a2093483acffbdd2&fccid=e9a8f4ab13d7abc1&vjs=3",
    "company": "Accord Marketing",
    "location": "Barnstaple",
@@ -1763,28 +1763,28 @@
    "salary": "£27,500 - £32,500 a year"
   },
   {
-   "name": "C#.Net/ASP.Net Developers",
+   "title": "C#.Net/ASP.Net Developers",
    "url": "https://www.indeed.co.uk/rc/clk?jk=71f97f4887fb1e3d&fccid=470aadc48e0f020f&vjs=3",
    "company": "Module",
    "location": "Bourne End",
    "blurb": "We're seeking software developers with commercial experience in C#.\nNET, RDBMS, SQL, XML, HTML, JavaScript.\nNET one or more RDBMS, such as SQL Server database,…"
   },
   {
-   "name": "PHP Developer",
+   "title": "PHP Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=495fa242d6b1e7a7&fccid=0bc6f8c6968331f0&vjs=3",
    "company": "Horizon Resources",
    "location": "London",
    "blurb": "Integration of user-facing elements developed by front-end developers.\nYour primary focus will be the development of back end components, define and maintenance…"
   },
   {
-   "name": "OSS Developer",
+   "title": "OSS Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=530d8e80007b77d4&fccid=cfa92cec45f97150&vjs=3",
    "company": "Virgin Media",
    "location": "Reading",
    "blurb": "Supports and develops a number of in-house OSS applications.\nUses best practice and knowledge to provide guidance which supports the resolution of complex…"
   },
   {
-   "name": "Graduate Software Developers",
+   "title": "Graduate Software Developers",
    "url": "https://www.indeed.co.uk/rc/clk?jk=155ecec4e6f062e3&fccid=d4728f76cc95b9da&vjs=3",
    "company": "NetPay Merchant Services",
    "location": "Hedge End",
@@ -1792,21 +1792,21 @@
    "salary": "£32,000 a year"
   },
   {
-   "name": "Visualisation Developer (Qliksense, Power BI, Tableau)",
+   "title": "Visualisation Developer (Qliksense, Power BI, Tableau)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=11aec2c4c1d7a6c4&fccid=105ecfd0283f415f&vjs=3",
    "company": "Capgemini",
    "location": "London",
    "blurb": "We are looking for strong consultants who are passionate about Microsoft technology and who have skills in Power BI, Power Platform, and Microsoft Azure data…"
   },
   {
-   "name": "ServiceNow Developer",
+   "title": "ServiceNow Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=eaeef46fa3f730bb&fccid=aaf3b433897ea465&vjs=3",
    "company": "JPMorgan Chase Bank, N.A.",
    "location": "Bournemouth",
    "blurb": "BS/BA degree or equivalent experience.\nExpertise in application, data, and infrastructure architecture disciplines."
   },
   {
-   "name": "Digital Developer",
+   "title": "Digital Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=845517d91fb7f8c4&fccid=3d01708447290748&vjs=3",
    "company": "Macmillan Cancer Support",
    "location": "London",
@@ -1814,34 +1814,34 @@
    "salary": "£45,500 - £55,000 a year"
   },
   {
-   "name": "Back End Developer",
+   "title": "Back End Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=2832f71a77613462&fccid=2995b65f15dcb873&vjs=3",
    "company": "Genflow",
    "location": "London WC1A"
   },
   {
-   "name": "Senior Front End developer",
+   "title": "Senior Front End developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=f210b23156a9bb1c&fccid=99348a45bd5bd696&vjs=3",
    "company": "Tribal Solutions",
    "location": "Edinburgh EH6",
    "blurb": "In short the business if technically advanced, and they look for developers that are capable and willing to move across languages and frameworks as necessary."
   },
   {
-   "name": "Automated Test Developer (Intermediate) – EY’s Innovation Hi...",
+   "title": "Automated Test Developer (Intermediate) – EY’s Innovation Hi...",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c69b447f4257d779&fccid=1544766d4c2915b0&vjs=3",
    "company": "Ernst & Young",
    "location": "London",
    "blurb": "Collaborate with developers, designers, analysts and product managers to ensure that quality is integrated into every stage of the development process."
   },
   {
-   "name": "Junior Front-end Drupal Developer",
+   "title": "Junior Front-end Drupal Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=25ba83855825957a&fccid=a0840121a2c05011&vjs=3",
    "company": "Lowrell",
    "location": "London",
    "blurb": "Develop front-end pages and components with exceedingly clean, semantic markup, using technologies including HTML, CSS, Bootstrap, Javascript, jQuery, jQueryUI…"
   },
   {
-   "name": "Integration Developer / Engineer",
+   "title": "Integration Developer / Engineer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=8ca59ba663559d93&fccid=481928196138fd2c&vjs=3",
    "company": "Gregory",
    "location": "Cullompton EX15 1BS",
@@ -1849,7 +1849,7 @@
    "salary": "£35,000 - £40,000 a year"
   },
   {
-   "name": "Senior Application Developer",
+   "title": "Senior Application Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=1eb1f50366483bf5&fccid=d183c410e3b0c3d0&vjs=3",
    "company": "Voyage Care",
    "location": "Lichfield",
@@ -1857,63 +1857,63 @@
    "salary": "£40,000 a year"
   },
   {
-   "name": "RPA Developer",
+   "title": "RPA Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=94448b4481f9affd&fccid=3ba6d20cd884270b&vjs=3",
    "company": "Sopra Steria",
    "location": "Glasgow G1",
    "blurb": "Package: Competitive, 25 days annual leave, 3% flexible bonus, life assurance, pension.\nYou will be key in the design and development of Blue Prism process…"
   },
   {
-   "name": "Microsoft 365 Developer",
+   "title": "Microsoft 365 Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=9713fcc6ad6ef50e&fccid=1ea82d99b5125525&vjs=3",
    "company": "Robertson Group",
    "location": "Stirling FK9 4TZ",
    "blurb": "You will develop and maintain the Microsoft 365 environment with the system acting as a central document management facility for key Robertson Group documents,."
   },
   {
-   "name": "Intermediate Web Developer",
+   "title": "Intermediate Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d438204cefc3a61a&fccid=f25db2bbbc9bc03c&vjs=3",
    "company": "Car Finance Giant",
    "location": "London",
    "blurb": "Integrating de A/B testing and website power line#Creating visually appealing web pages or interfaces#Programming interaction with JavaScript and/or libraries…"
   },
   {
-   "name": "Java Developer - IBM CIC",
+   "title": "Java Developer - IBM CIC",
    "url": "https://www.indeed.co.uk/rc/clk?jk=be329b31d6bf6bf0&fccid=de71a49b535e21cb&vjs=3",
    "company": "IBM",
    "location": "London",
    "blurb": "In addition to our technical expertise we can cover Delivery through Project Managers & Project Analysts, Business or Data Analysts."
   },
   {
-   "name": "Full-Stack Developer at Univation – Volunteering – a Univers...",
+   "title": "Full-Stack Developer at Univation – Volunteering – a Univers...",
    "url": "https://www.indeed.co.uk/rc/clk?jk=bea28caa26d90dab&fccid=9b4e0311fbe2f8b3&vjs=3",
    "company": "Univation",
    "location": "London",
    "blurb": "For Career Purposes, Internship certification and Reference from CEO can be given upon competition.\nExperience in coding in JavaScript, PHP or Python."
   },
   {
-   "name": "Software Engineering Intern",
+   "title": "Software Engineering Intern",
    "url": "https://www.indeed.co.uk/rc/clk?jk=05c900253b4db305&fccid=31841269d7b4c0db&vjs=3",
    "company": "Echobox",
    "location": "London",
    "blurb": "Come up with ideas for a relevant and interesting project in your chosen area that you are able to complete throughout the duration of your internship."
   },
   {
-   "name": "ORACLE – PL/SQL DEVELOPER",
+   "title": "ORACLE – PL/SQL DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=66c3e41b4638f818&fccid=9b33f1f43112d3cb&vjs=3",
    "company": "Talan",
    "location": "London",
    "blurb": "Providing technical coaching to other developers, conducting code reviews and ensuring adherence to methodology and best practices across the team."
   },
   {
-   "name": ".NET / Angular Developer",
+   "title": ".NET / Angular Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c30908ffe4da86dc&fccid=a4e4e2eaf26690c9&vjs=3",
    "company": "Accenture",
    "location": "London",
    "blurb": "NET developer, MS BI Developer, Integration points with applications like AD, exchange connectors AS LDA schema – used for holding Portal users for the white…"
   },
   {
-   "name": "Lead Developer/Team Lead",
+   "title": "Lead Developer/Team Lead",
    "url": "https://www.indeed.co.uk/rc/clk?jk=99d567b0e12e4c46&fccid=cf0b42e8fd493802&vjs=3",
    "company": "IO Associates",
    "location": "Westbury",
@@ -1921,7 +1921,7 @@
    "salary": "£60,000 - £65,000 a year"
   },
   {
-   "name": "Application Support Developer",
+   "title": "Application Support Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=0d07576a53f323a4&fccid=1214cf0a42abe4eb&vjs=3",
    "company": "Capita Plc",
    "location": "Reading",
@@ -1929,7 +1929,7 @@
    "salary": "£45,000 a year"
   },
   {
-   "name": "Band 4 ICT System Developer - Junior, B1, Trust Headquarters",
+   "title": "Band 4 ICT System Developer - Junior, B1, Trust Headquarters",
    "url": "https://www.indeed.co.uk/rc/clk?jk=9f654f7d004807fb&fccid=66c41cbf5a5a4f02&vjs=3",
    "company": "Birmingham and Solihull Mental Health NHS Foundati...",
    "location": "Birmingham B1 3RB",
@@ -1937,21 +1937,21 @@
    "salary": "£21,892 - £24,157 a year"
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=41cb00c320346d9e&fccid=de71a49b535e21cb&vjs=3",
    "company": "IBM",
    "location": "Hursley",
    "blurb": "With our regular deliveries of highly successful products, we’ve won awards for our cutting-edge Flash technology and delighted customers with high-performing,…"
   },
   {
-   "name": "Graduate Software Developer",
+   "title": "Graduate Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=2653110fb151cc59&fccid=de56d7554bea5214&vjs=3",
    "company": "Jacobs",
    "location": "Glasgow",
    "blurb": "Applicants should be keen, hardworking and have excellent technical skills and background.\nWork with the team designing and developing new technical solutions…"
   },
   {
-   "name": "C# Developer",
+   "title": "C# Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=68d8887cadc2ad7b&fccid=dbade4ef28afa9df&vjs=3",
    "company": "SF Recruitment",
    "location": "Coventry",
@@ -1959,7 +1959,7 @@
    "salary": "£45,000 - £55,000 a year"
   },
   {
-   "name": "Front End/Backend Developer",
+   "title": "Front End/Backend Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b5bb5fae3958e2a8&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "Nottingham",
@@ -1967,21 +1967,21 @@
    "salary": "£43,600 a year"
   },
   {
-   "name": "RPA Developer - Digital Automation",
+   "title": "RPA Developer - Digital Automation",
    "url": "https://www.indeed.co.uk/rc/clk?jk=08c3e90610a8c1d7&fccid=c2a63affe8751868&vjs=3",
    "company": "CAPCO",
    "location": "London",
    "blurb": "2+ years’ experience as an RPA developer (Blue Prism, UiPath, Automation Anywhere, WorkFusion), with capability to develop on surface, mainframe, web-based…"
   },
   {
-   "name": "Software Engineer - (Graduate) - United Kingdom",
+   "title": "Software Engineer - (Graduate) - United Kingdom",
    "url": "https://www.indeed.co.uk/rc/clk?jk=c1cdbf817d5d54b4&fccid=dfc44f3b8c44a6db&vjs=3",
    "company": "Cisco Systems",
    "location": "Feltham",
    "blurb": "A successful candidate for this role can be flexible, loves learning new skills and takes responsibility for tasks and features."
   },
   {
-   "name": "Developer",
+   "title": "Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=174bff5d80dc525a&fccid=1b4313df5267ab89&vjs=3",
    "company": "University of Leeds",
    "location": "Leeds",
@@ -1989,28 +1989,28 @@
    "salary": "£33,797 - £40,322 a year"
   },
   {
-   "name": "Flex Developer",
+   "title": "Flex Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=bd9a6378a7b0ea7c&fccid=9bebb855bebe9067&vjs=3",
    "company": "Beatmy Salary",
    "location": "Melbourne",
    "blurb": "Web technologies, MS SQL, CSS, SQL, .\nNET, Web Services, API, Javascript, Networking, Windows Server.\nWorking experience on Web technologies, Javascript, CSS,…"
   },
   {
-   "name": "Infrastructure Developer",
+   "title": "Infrastructure Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b7a310f3df23b89f&fccid=057abf3fd357e717&vjs=3",
    "company": "Barclays",
    "location": "Knutsford WA16 9EU",
    "blurb": "Ideal candidate would be capable developer across the entire stack of technologies (Full stack).\nYou will be responsible for delivering efficient access to IT…"
   },
   {
-   "name": "DEVELOPER",
+   "title": "DEVELOPER",
    "url": "https://www.indeed.co.uk/rc/clk?jk=555fe86b3404b2f0&fccid=f53fad3b59883186&vjs=3",
    "company": "Bangura Solutions",
    "location": "Leeds",
    "blurb": "The Developer will be responsible for the delivery of designated features under the supervision of the team’s Delivery Manager as well as providing ad hoc…"
   },
   {
-   "name": "Front-End Developer - E-commerce- Contract",
+   "title": "Front-End Developer - E-commerce- Contract",
    "url": "https://www.indeed.co.uk/rc/clk?jk=8e04e37b9f79f2a7&fccid=d1c7fa52f243b208&vjs=3",
    "company": "Eligo Recruitment Ltd",
    "location": "London",
@@ -2018,14 +2018,14 @@
    "salary": "£250 - £350 a day"
   },
   {
-   "name": "Internship Software Engineer 2021",
+   "title": "Internship Software Engineer 2021",
    "url": "https://www.indeed.co.uk/rc/clk?jk=11ed4c43d0733052&fccid=38e699803803146d&vjs=3",
    "company": "Improbable",
    "location": "London",
    "blurb": "Working with AAA game studios to build new gaming features into our simulation stack.\nIntegrating new engines with our distributed stack - e.g. physics,…"
   },
   {
-   "name": "VBA Developer, Senior Officer (Business Intelligence)",
+   "title": "VBA Developer, Senior Officer (Business Intelligence)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=03ed67225c2873b5&fccid=14b7c83f2c02772e&vjs=3",
    "company": "Lidl",
    "location": "London SW19 4JS",
@@ -2033,7 +2033,7 @@
    "salary": "£34,000 - £40,000 a year"
   },
   {
-   "name": "Senior Qlik Developer",
+   "title": "Senior Qlik Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=999230788bc2dfdd&fccid=a25c72f390db32e2&vjs=3",
    "company": "West Midlands Police",
    "location": "Birmingham",
@@ -2041,7 +2041,7 @@
    "salary": "£41,739 - £49,023 a year"
   },
   {
-   "name": "Senior Information Developer",
+   "title": "Senior Information Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=ef60d1e25395a5ad&fccid=247ddee47f9c9dd9&vjs=3",
    "company": "Doncaster and Bassetlaw Teaching Hospitals NHS Fou...",
    "location": "Doncaster",
@@ -2049,7 +2049,7 @@
    "salary": "£38,890 - £44,503 a year"
   },
   {
-   "name": "Full Stack Developer - JavaScript/Ruby",
+   "title": "Full Stack Developer - JavaScript/Ruby",
    "url": "https://www.indeed.co.uk/rc/clk?jk=244242cd018e369d&fccid=c7414b794cb89c1c&vjs=3",
    "company": "Linux Recruit",
    "location": "London",
@@ -2057,14 +2057,14 @@
    "salary": "£500 - £550 a day"
   },
   {
-   "name": "Front-End Engineer",
+   "title": "Front-End Engineer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=df7bf89a6d69b3a0&fccid=dd60ad64d24fcde7&vjs=3",
    "company": "A Million Ads",
    "location": "London WC1V",
    "blurb": "Demonstrating your knowledge to help build a better product.\nYou have solid experience with at least one MVC based framework (e.g. VueJS, React etc...)."
   },
   {
-   "name": "Frontend Web Developer",
+   "title": "Frontend Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=aa69e79addd17257&fccid=57233d6563b44329&vjs=3",
    "company": "EMR Marketing Recruitment",
    "location": "London",
@@ -2072,7 +2072,7 @@
    "salary": "£275 - £300 a day"
   },
   {
-   "name": "Remote Python Developer",
+   "title": "Remote Python Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d41661f91204f775&fccid=d843c2e1cb0bfd05&vjs=3",
    "company": "The Bridge",
    "location": "Newcastle upon Tyne",
@@ -2080,21 +2080,21 @@
    "salary": "£40,000 - £55,000 a year"
   },
   {
-   "name": "Information Developer, Senior",
+   "title": "Information Developer, Senior",
    "url": "https://www.indeed.co.uk/rc/clk?jk=7fc11e2854f375d5&fccid=ddf188c30da34688&vjs=3",
    "company": "Infor",
    "location": "Home Based",
    "blurb": "A senior information developer plans, organizes, writes and codes online help, user, installation, and release-related documentation for business software that…"
   },
   {
-   "name": "OneRisk Calc Engine SRA - Developer",
+   "title": "OneRisk Calc Engine SRA - Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=5f7978f6445af7f6&fccid=057abf3fd357e717&vjs=3",
    "company": "Barclays",
    "location": "London E14",
    "blurb": "Forming effective working relationships with other developer and analysts in the risk management community.\nThe SRA system is the principal platform to compute…"
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=bb21bffaa22dfda7&fccid=d843c2e1cb0bfd05&vjs=3",
    "company": "The Bridge",
    "location": "Southampton",
@@ -2102,7 +2102,7 @@
    "salary": "£400 - £475 a day"
   },
   {
-   "name": "MINI Plant Oxford - IT Software Developer - 13 Month Placeme...",
+   "title": "MINI Plant Oxford - IT Software Developer - 13 Month Placeme...",
    "url": "https://www.indeed.co.uk/rc/clk?jk=a45bf72a09b020f0&fccid=e2d833fd1cdff80e&vjs=3",
    "company": "BMW (UK) Manufacturing Ltd.",
    "location": "Oxford",
@@ -2110,14 +2110,14 @@
    "salary": "£18,500 a year"
   },
   {
-   "name": "Business Support Developer",
+   "title": "Business Support Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d28540fddbcd2484&fccid=5c1f8ab0b41ffd09&vjs=3",
    "company": "ICBC Standard Bank",
    "location": "London",
    "blurb": "We manage and develop a host of systems, providing reporting, workflow and control to Finance around the balance sheet for the Banks daily reporting."
   },
   {
-   "name": "Software Development Apprentice – 07874",
+   "title": "Software Development Apprentice – 07874",
    "url": "https://www.indeed.co.uk/rc/clk?jk=886110b154f124f4&fccid=c7d36fed20e6ccc4&vjs=3",
    "company": "Baltic Apprenticeships",
    "location": "Liverpool",
@@ -2125,14 +2125,14 @@
    "salary": "£10,000 a year"
   },
   {
-   "name": "Finance Applications Developer",
+   "title": "Finance Applications Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=123badfcdb76b4de&fccid=3bd8811556a92d0e&vjs=3",
    "company": "esure Services Limited",
    "location": "Reigate RH2 0SG",
    "blurb": "The successful Finance Applications Developer will be responsible for the day to day functional support of Oracle Financials and the functional and technical…"
   },
   {
-   "name": "Junior Data Operations Developer",
+   "title": "Junior Data Operations Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=4913b79c9f612bb6&fccid=25571bc6edc14ee3&vjs=3",
    "company": "OneSavings Bank PLC",
    "location": "Chatham ME4 4QZ",
@@ -2140,14 +2140,14 @@
    "salary": "£24,000 - £26,000 a year"
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=4c0ca63c3dc4d3b1&fccid=dc520a700a776137&vjs=3",
    "company": "Angel Solutions",
    "location": "Liverpool",
    "blurb": "As a full stack developer, you will be involved in scalable, database-driven solutions that will improve the education industry.\nSQL Server and T-SQL."
   },
   {
-   "name": "React Developer - Swindon/Remote - £40,000-£50,000",
+   "title": "React Developer - Swindon/Remote - £40,000-£50,000",
    "url": "https://www.indeed.co.uk/rc/clk?jk=d780feb767ad2c09&fccid=cf0b42e8fd493802&vjs=3",
    "company": "IO Associates",
    "location": "Westbury",
@@ -2155,21 +2155,21 @@
    "salary": "£40,000 - £50,000 a year"
   },
   {
-   "name": "Digital Graduate Scheme",
+   "title": "Digital Graduate Scheme",
    "url": "https://www.indeed.co.uk/rc/clk?jk=0489c60bf3591f53&fccid=cf94a2aa6eb7d672&vjs=3",
    "company": "PA Consulting Group",
    "location": "London",
    "blurb": "We take responsibility for the largest change programmes in government or commerce and we work shoulder to shoulder with our clients on every step of their…"
   },
   {
-   "name": "Web Developer",
+   "title": "Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=55e697ee24520208&fccid=36556175977da92a&vjs=3",
    "company": "TJS Website Design Lincolnshire",
    "location": "Horncastle",
    "blurb": "You will be working on a multitude of websites for a diverse range of customers and will need to be adaptable to take on various projects."
   },
   {
-   "name": "Graduate Big Data Software Developer (Engineer) 2021 Program...",
+   "title": "Graduate Big Data Software Developer (Engineer) 2021 Program...",
    "url": "https://www.indeed.co.uk/rc/clk?jk=f0a219e02a0bfba2&fccid=2fe5bdb74ccda2ee&vjs=3",
    "company": "CGG",
    "location": "Crawley",
@@ -2177,21 +2177,21 @@
    "salary": "£26,000 a year"
   },
   {
-   "name": "Graduate Software Developer",
+   "title": "Graduate Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=fc7e3a16062d4e4d&fccid=f28d659c13a0ec47&vjs=3",
    "company": "Reynolds and Reynolds",
    "location": "Birmingham",
    "blurb": "As a Software Developer, you will be part of a team of professionals whose role is to design, develop and test software to enhance the functionality of our…"
   },
   {
-   "name": "iOS Developer",
+   "title": "iOS Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=895477dd440c434d&fccid=c236040a6cb698b1&vjs=3",
    "company": "Blue Alligator",
    "location": "Bletchley",
    "blurb": "Someone experienced in Objective C to support existing code and develop new functionality in our mobile products.\nPassionate about building elegant software."
   },
   {
-   "name": "Software Developer",
+   "title": "Software Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=54396c6b7d9474e3&fccid=7fdba833dddcd255&vjs=3",
    "company": "OrderWise",
    "location": "Lincoln LN1 2LR",
@@ -2199,7 +2199,7 @@
    "salary": "£28,000 - £40,000 a year"
   },
   {
-   "name": "WordPress Developer – PHP, HTML, CSS",
+   "title": "WordPress Developer – PHP, HTML, CSS",
    "url": "https://www.indeed.co.uk/rc/clk?jk=17443b58c3afeb28&fccid=51cdf18e3e4b5a5a&vjs=3",
    "company": "Shift F5",
    "location": "Northampton",
@@ -2207,14 +2207,14 @@
    "salary": "£35,000 a year"
   },
   {
-   "name": "Software Developer graduate programme - Leeds",
+   "title": "Software Developer graduate programme - Leeds",
    "url": "https://www.indeed.co.uk/rc/clk?jk=bb057c4c5a6caf49&fccid=288ce4c9ce99f179&vjs=3",
    "company": "Sky",
    "location": "Leeds",
    "blurb": "Collaborate with our software teams across the globe on video streaming platforms.\nCreate software technology that influences the way they watch their favourite…"
   },
   {
-   "name": ".NET Developer (C#, .NET, WebAPI, SQL, MVC)",
+   "title": ".NET Developer (C#, .NET, WebAPI, SQL, MVC)",
    "url": "https://www.indeed.co.uk/rc/clk?jk=b13eb8080a4d7cc4&fccid=18d0aa239188acab&vjs=3",
    "company": "develop.",
    "location": "London",
@@ -2222,14 +2222,14 @@
    "salary": "£40,000 - £50,000 a year"
   },
   {
-   "name": "Web Developer",
+   "title": "Web Developer",
    "url": "https://www.indeed.co.uk/rc/clk?jk=144616acc277b31d&fccid=8cb222cc2614b8d7&vjs=3",
    "company": "William Hill",
    "location": "Gibraltar",
    "blurb": "You’re on top of your game.\nWe can guarantee a balanced approach between office and homeworking, and long term we can offer 20% working from home."
   },
   {
-   "name": "Android Developer – London",
+   "title": "Android Developer – London",
    "url": "https://www.indeed.co.uk/rc/clk?jk=2cfd29f631cf44d0&fccid=105ecfd0283f415f&vjs=3",
    "company": "Capgemini",
    "location": "London",
