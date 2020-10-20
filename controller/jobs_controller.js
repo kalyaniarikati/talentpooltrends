@@ -64,7 +64,11 @@ const getSearch= (req, res) =>{
           // res.redirect(200, '/dashboard');
           // set = ({data: JSON.stringify(response.data)})
           set = response.data;
-          // console.log(set)
+          console.log(set.results[0])
+
+  res.render('dashboard', {set: set.results,
+    tech: search})
+
           // res.render('../views/dashboard', {final: {s: (set), msg: req.flash('success_msg', 'You got there')}})
           // res.end(JSON.stringify(response.data));
         })
@@ -73,10 +77,11 @@ const getSearch= (req, res) =>{
           // res.writeHead(500, headers);
           res.send(JSON.stringify(err));
         });
-    } 
+    }
+
   // res.render('dashboard', {final: {s: set, msg: req.flash('success_msg', 'You got there')}})
-  console.log(JSON.stringify(set))
-  res.render('dashboard', {final: JSON.stringify(set)})
+  // console.log(JSON.stringify(set))
+  // res.render('dashboard', {final: JSON.stringify(set)})
 }
 
 module.exports= {
