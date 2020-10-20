@@ -5,9 +5,10 @@ const flash = require('connect-flash');
 const session = require('express-session');
 const MongoStore = require('connect-mongo')(session);
 const passport = require('passport');
+const cors = require('cors');
 
 const app=express();
-const PORT = process.env.PORT || 5678;
+const PORT = process.env.PORT || 3456;
 
 // Passport config
 require('./config/passport')(passport);
@@ -24,6 +25,7 @@ mongoose.connect(db, {useNewUrlParser: true})
 app.engine('handlebars', exphbs({
     layoutsDir: __dirname + '/views/layouts',
     extname: 'handlebars',
+    defaultView: 'default',
     //new configuration parameter
     partialsDir: __dirname + '/views/partials/'
 }));
@@ -31,7 +33,8 @@ app.set('view engine', 'handlebars');
 
 // middleware bodyparser
 app.use(express.urlencoded({extended: false}))
-
+// cors
+app.use(cors());
 // Express middleware
 app.use(session({
     secret: 'secret',
@@ -58,7 +61,7 @@ app.use((req, res, next) => {
 // Routes
 app.use('/', require('./routes/index'))
 app.use('/users', require('./routes/users'))
-app.use('/api', require('./routes/jobs'))
+app.use('/api', require('./routes/jobs_routes'))
 
 app.listen(PORT, () =>{
     console.log(`server is running on port ${PORT}`)

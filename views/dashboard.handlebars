@@ -1,4 +1,44 @@
 <h1 class="mt-4">Dashboard</h1>
-<p class="lead mb-3"><strong>{{name}}</strong> Welcome to NodeJs Passport Auth Lesson </p>
-{{data}}
+<p class="lead mb-3"> Welcome <strong>{{name}}</strong> </p>
+
+
+<form class="form-inline" action="/api/searchBy" method="POST">
+    <input class="form-control mr-sm-2" type="search" placeholder="Search by title, skill or company"
+        aria-label="Search" id="position" name="position">
+    <input class="form-control mr-sm-2" type="search" placeholder="Search by city, state or country" aria-label="Search"
+        id="location" name="location">
+    <button class="btn btn-primary my-2 my-sm-0" type="submit">Search</button>
+</form>
+
+
+<div class="row mt-5">
+    <div class="col-md-4 m-auto">
+        <div class="card card-body">
+            <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i> <span>Job searches</span></h1>
+        {{!-- {{final.s.search}} --}}
+         {{!-- {{final.s.location}} --}}
+         {{!-- {{data}} --}}
+         {{final}}
+        </div>
+    </div>
+    {{!-- <div class="col-md-4 m-auto">
+        <div class="card card-body">
+            <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Based on your previous searches</span>
+            </h1>
+        </div>
+    </div>
+    <div class="card card-body">
+        <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Tech trends technologies compared</span>
+        </h1>
+    </div>
+    <div class="card card-body">
+        <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Number of job openings in last 2 months in
+                different portals</span></h1>
+    </div>
+    <div class="card card-body">
+        <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Tech trends comparing salries at different
+                locations</span></h1>
+    </div> --}}
+</div>
+
 <a href="/users/logout" class="btn btn-secondary">Logout</a>
