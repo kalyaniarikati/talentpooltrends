@@ -32,6 +32,7 @@ app.engine('handlebars', exphbs({
     //new configuration parameter
     partialsDir: __dirname + '/views/partials/'
 }));
+
 app.set('view engine', 'handlebars');
 
 // middleware bodyparser

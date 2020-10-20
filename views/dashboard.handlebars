@@ -35,17 +35,21 @@
         {{/each}}
     </div>
     <div class="col-4">
+        <input id="aus" type="hidden" value={{parsedSeekAus.jobs.length}} aria-hidden="true"><br><br>
+        <input id="uk" type="hidden" value={{parsedIndeedUk.jobs.length}} aria-hidden="true"><br><br>
+        <input id="usa" type="hidden" value={{parsedIndeedUsa.jobs.length}} aria-hidden="true"><br><br>
+        <button class="btn btn-primary my-2 my-sm-0" type="submit" id="buttonId">Trend Graphs</button>
 
-        <div class="card card-body">
+        <div class="card card-body border-0">
             <div id="chart">
             </div>
         </div>
-        <div class="card card-body">
+        <div class="card card-body border-0">
             <div id="chart1">
             </div>
 
         </div>
-        <div class="card card-body">
+        <div class="card card-body border-0">
             <div id="chart2">
             </div>
         </div>
@@ -54,5 +58,68 @@
 </div>
 </div>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+<script>
+
+    document.querySelector('#buttonId').addEventListener("click", function () {
+        let aus = document.querySelector('#aus').value;
+        let uk = document.querySelector('#uk').value;
+        let usa = document.querySelector('#usa').value;
+
+
+        var options = {
+            chart: {
+                type: 'line'
+            },
+            series: [{
+                name: 'jobs',
+                data: [aus, uk, usa]
+            }],
+            xaxis: {
+                countries: ['AU', 'UK', 'USA']
+            }
+        }
+aus=aus/10;
+uk=uk/10;
+usa=usa/10;
+let data=[aus, uk, usa]
+
+        var chart = new ApexCharts(document.querySelector("#chart"), options);
+        chart.render();
+
+
+        var options = {
+            series: data,
+            chart: {
+                width: 380,
+                type: 'pie',
+            },
+            labels: ['AUS', 'UK', 'USA'],
+            responsive: [{
+                breakpoint: 480,
+                options: {
+                    chart: {
+                        width: 200
+                    },
+                    legend: {
+                        position: 'bottom'
+                    }
+                }
+            }]
+        };
+        let chart1 = new ApexCharts(document.querySelector("#chart1"), options);
+        let chart2 = new ApexCharts(document.querySelector("#chart2"), options);
+
+
+
+        {{!-- chart.render(); --}}
+        chart1.render();
+        chart2.render();
+
+    });
+
+</script>
 
 <a href="/users/logout" class="btn btn-secondary">Logout</a>

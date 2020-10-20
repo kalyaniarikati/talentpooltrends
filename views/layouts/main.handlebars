@@ -12,7 +12,7 @@
     <div class="container">
         <nav class="navbar navbar-dark bg-dark">
     <a class="navbar-brand" href="/">TalentPool Trends</a>
-     <button class="btn btn-primary my-2 my-sm-0" type="submit" action="/api/searchBy" method="POST">Trend Graphs</button>
+    
 </nav>
         {{{body}}}
     </div>
@@ -21,58 +21,6 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     
-    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
-
-    <script>
-      
-                var options = {  chart: {
-    type: 'line'
-  },
-  series: [{
-    name: 'sales',
-    data: [30,40,35,50,49,60,70,91,125]
-  }],
-  xaxis: {
-    categories: [1991,1992,1993,1994,1995,1996,1997, 1998,1999]
-  }
-}
-
-
-        var chart = new ApexCharts(document.querySelector("#chart"), options);
-        chart.render();
-      
-
-var chart = new ApexCharts(document.querySelector("#chart"), options);
-  var options = {
-          series: [44, 55, 13, 43, 22],
-          chart: {
-          width: 380,
-          type: 'pie',
-        },
-        labels: ['Team A', 'Team B', 'Team C', 'Team D', 'Team E'],
-        responsive: [{
-          breakpoint: 480,
-          options: {
-            chart: {
-              width: 200
-            },
-            legend: {
-              position: 'bottom'
-            }
-          }
-        }]
-        };
-var chart1 = new ApexCharts(document.querySelector("#chart1"), options);
-var chart2 = new ApexCharts(document.querySelector("#chart2"), options);
-
-
-
-chart.render();
-chart1.render();
-chart2.render();
-
-
-           
-    </script>
+   
 </body>
 </html>
