@@ -15,9 +15,9 @@
 <br>
 {{!-- <h3>Counts: 
   {{!-- SeekAus => {{parsedSeekAus.jobs.length}},  --}}
-  {{!-- IndeedAUS: {{parsedIndeedAus.jobs.length}}  --}}
-  {{!-- {{!-- UK: {{parsedIndeedUk.jobs.length}},  --}}
-  {{!-- SA: {{parsedIndeedUsa.jobs.length}} --}}
+{{!-- IndeedAUS: {{parsedIndeedAus.jobs.length}}  --}}
+{{!-- {{!-- UK: {{parsedIndeedUk.jobs.length}},  --}}
+{{!-- SA: {{parsedIndeedUsa.jobs.length}} --}}
 {{!-- </h3> --}}
 {{!-- {{!-- <h4>Technology: {{tech}}</h4>  --}}
 
@@ -26,22 +26,22 @@
         {{#each set}}
 
         <div class="card w-75 border-0">
-          <br>
-          <div class="card-body">
-            <h5 class="card-title">{{this.company.display_name}}</h5>
-            <p class="card-text">
-              {{this.location.display_name}}
-              {{!-- {{this.location.area}} --}}
-            </p>
-            <span>
-              <button type="button" class="btn btn-info">Apply
-                <a target="_blank" href="{{this.redirect_url}}"></a>
-              </button>
-              <sub>{{adzuna this.__CLASS__}}</sub>
-            </span>
             <br>
-          </div>
-          <div class="card-footer bg-transparent border-success p-0"></div>
+            <div class="card-body">
+                <h5 class="card-title">{{this.company.display_name}}</h5>
+                <p class="card-text">
+                    {{this.location.display_name}}
+                    {{!-- {{this.location.area}} --}}
+                </p>
+                <span>
+                    <button type="button" class="btn btn-info">Apply
+                        <a target="_blank" href="{{this.redirect_url}}"></a>
+                    </button>
+                    <sub>{{adzuna this.__CLASS__}}</sub>
+                </span>
+                <br>
+            </div>
+            <div class="card-footer bg-transparent border-success p-0"></div>
         </div>
         {{/each}}
     </div>
@@ -49,11 +49,28 @@
         <input id="aus" type="hidden" value={{parsedSeekAus.jobs.length}} aria-hidden="true"><br><br>
         <input id="uk" type="hidden" value={{parsedIndeedUk.jobs.length}} aria-hidden="true"><br><br>
         <input id="usa" type="hidden" value={{parsedIndeedUsa.jobs.length}} aria-hidden="true"><br><br>
+
+        <input id="ausi" type="hidden" value={{parsedIndeedAus.jobs.length}} aria-hidden="true"><br><br>
+        <input id="ausa" type="hidden" value={{set.length}} aria-hidden="true"><br><br>
+        <input id="syd" type="hidden" value={{syd.length}} aria-hidden="true"><br><br>
+        <input id="bris" type="hidden" value={{bris.length}} aria-hidden="true"><br><br>
+        <input id="mel" type="hidden" value={{mel.length}} aria-hidden="true"><br><br>
+
+
+        <button class="btn btn-primary my-2 my-sm-0" type="submit" id="buttonId">Trend Graphs</button>
+
+
+        <div class="card card-body border-0">
+
+            <div class="div1"></div>
+
+
         {{!-- <button class="btn btn-primary my-2 my-sm-0" type="submit" id="buttonId">Trend Graphs</button> --}}
 
         <div class="card card-body border-0">
 
         <div class="div1"></div>
+
             <div id="chart">
               <h2>heading</h2>
             </div>
@@ -73,7 +90,7 @@
 </div>
 </div>
 </div>
-    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 
 <script>
 
@@ -81,7 +98,13 @@
         let aus = document.querySelector('#aus').value;
         let uk = document.querySelector('#uk').value;
         let usa = document.querySelector('#usa').value;
+        let ausa = document.querySelector('#ausa').value;
+        let ausi = document.querySelector('#ausi').value;
+        let syd = document.querySelector('#syd').value;
+        let mel = document.querySelector('#mel').value;
+        let bris = document.querySelector('#bris').value;
 
+        console.log(syd, mel, bris)
 
         var options = {
             chart: {
@@ -89,16 +112,16 @@
             },
             series: [{
                 name: 'jobs',
-                data: [aus, uk, usa]
+                data: [syd, mel, bris]
             }],
             xaxis: {
-                countries: ['AU', 'UK', 'USA']
+                countries: ['SYD', 'MEL', 'BRIS']
             }
         }
-aus=aus/10;
-uk=uk/10;
-usa=usa/10;
-let data=[aus, uk, usa]
+        aus = aus / 10;
+        uk = uk / 10;
+        usa = usa / 10;
+        let data = [aus, uk, usa]
 
         var chart = new ApexCharts(document.querySelector("#chart"), options);
         chart.render();
@@ -124,11 +147,32 @@ let data=[aus, uk, usa]
             }]
         };
         let chart1 = new ApexCharts(document.querySelector("#chart1"), options);
+
+        ausa = ausa / 10;
+        ausi = ausi / 10;
+        aus = aus / 10;
+        let data1 = [ausa, ausi, aus]
+        var options = {
+            series: data1,
+            chart: {
+                width: 380,
+                type: 'donut',
+            },
+            labels: ['Adzuna', 'Indeed', 'SEEK'],
+            responsive: [{
+                breakpoint: 480,
+                options: {
+                    chart: {
+                        width: 200
+                    },
+                    legend: {
+                        position: 'bottom'
+                    }
+                }
+            }]
+        };
         let chart2 = new ApexCharts(document.querySelector("#chart2"), options);
 
-
-
-        {{!-- chart.render(); --}}
         chart1.render();
         chart2.render();
 
