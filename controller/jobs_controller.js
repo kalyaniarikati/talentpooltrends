@@ -58,7 +58,7 @@ const getSearch = (req, res) => {
         console.log (set.results[0], parsedSeekAus.jobs.length, parsedIndeedUk.jobs.length );
 
         res.render ('dashboard', {
-          set: set.results,
+          set: new Set(set.results),
           tech: search,
           adFrom: set.__CLASS__.split(":", 1),
           parsedSeekAus, parsedIndeedAus, parsedIndeedUk, parsedIndeedUsa
