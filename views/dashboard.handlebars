@@ -8,7 +8,9 @@
     <input class="form-control mr-sm-2" type="search" placeholder="Search by city, state or country" aria-label="Search"
         id="location" name="location">
     <button class="btn btn-primary mx-1 my-sm-0" type="submit">Search</button>
+
     <button class="btn btn-info mx-1 my-sm-0" type="submit" action="/api/searchBy" method="POST">Trend Graphs</button>
+
 </form>
 <br>
 {{!-- <h3>Counts: 
@@ -47,23 +49,23 @@
         <input id="aus" type="hidden" value={{parsedSeekAus.jobs.length}} aria-hidden="true"><br><br>
         <input id="uk" type="hidden" value={{parsedIndeedUk.jobs.length}} aria-hidden="true"><br><br>
         <input id="usa" type="hidden" value={{parsedIndeedUsa.jobs.length}} aria-hidden="true"><br><br>
-        <button class="btn btn-primary my-2 my-sm-0" type="submit" id="buttonId">Trend Graphs</button>
-
+        {{!-- <button class="btn btn-primary my-2 my-sm-0" type="submit" id="buttonId">Trend Graphs</button> --}}
 
         <div class="card card-body border-0">
 
         <div class="div1"></div>
-
             <div id="chart">
+              <h2>heading</h2>
             </div>
         </div>
         <div class="card card-body border-0">
             <div id="chart1">
+              <h2>heading</h2>
             </div>
-
         </div>
         <div class="card card-body border-0">
             <div id="chart2">
+              <h2>heading</h2>
             </div>
         </div>
     </div>
@@ -72,9 +74,6 @@
 </div>
 </div>
     <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
-
-
-<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 
 <script>
 
