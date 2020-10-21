@@ -1,14 +1,14 @@
-<h1 class="mt-4">Dashboard</h1>
-<p class="lead mb-3"> Welcome</p>
-<a href="/users/logout" class="btn btn-secondary">Logout</a>
-
+<div class="text-center m-3">
+    <h1>Talent Dashboard</h1>
+</div>
 
 <form class="form-inline" action="/api/searchBy" method="POST">
     <input class="form-control mr-sm-2" type="search" placeholder="Search by title, skill or company"
         aria-label="Search" id="position" name="position">
     <input class="form-control mr-sm-2" type="search" placeholder="Search by city, state or country" aria-label="Search"
         id="location" name="location">
-    <button class="btn btn-primary my-2 my-sm-0" type="submit">Search</button>
+    <button class="btn btn-primary mx-1 my-sm-0" type="submit">Search</button>
+    <button class="btn btn-info mx-1 my-sm-0" type="submit" action="/api/searchBy" method="POST">Trend Graphs</button>
 </form>
 <br>
 {{!-- <h3>Counts: 
