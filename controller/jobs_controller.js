@@ -55,13 +55,21 @@ const getSearch = (req, res) => {
       .get (targetURL)
       .then (response => {
         set = response.data;
-        console.log (set.results[0], parsedSeekAus.jobs.length, parsedIndeedUk.jobs.length );
+        // console.log (set.results[0], parsedSeekAus.jobs.length, parsedIndeedUk.jobs.length );
 
+
+        let syd=set.results.filter((job) => { return (job.location.display_name.toLowerCase()).includes('sydney') || (job.location.display_name.toLowerCase()).includes('new south wales') || (job.location.display_name.toLowerCase()).includes('newsouthwales') || (job.location.display_name.toLowerCase()).includes('nsw') || (job.location.display_name.toLowerCase()).includes('camberwell') || (job.location.display_name.toLowerCase()).includes('canberra')});
+        let mel=set.results.filter((job) => {return (job.location.display_name.toLowerCase()).includes('melbourne') || (job.location.display_name.toLowerCase()).includes('victoria')});
+        let bris=set.results.filter((job) =>{return (job.location.display_name.toLowerCase()).includes('brisbane') || (job.location.display_name.toLowerCase()).includes('queensland') ||  (job.location.display_name.toLowerCase()).includes('adelaide')});
+        console.log("**********************************************")
+console.log(set.results[1].location.display_name.toLowerCase())
+console.log(syd.length, mel.length, bris.length, set.results.length)
         res.render ('dashboard', {
           set: set.results,
           tech: search,
           adFrom: set.__CLASS__.split(":", 1),
-          parsedSeekAus, parsedIndeedAus, parsedIndeedUk, parsedIndeedUsa
+          parsedSeekAus, parsedIndeedAus, parsedIndeedUk, parsedIndeedUsa,
+          syd, mel, bris
         });
       })
       .catch (err => {
