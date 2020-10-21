@@ -65,7 +65,7 @@ const getSearch = (req, res) => {
 console.log(set.results[1].location.display_name.toLowerCase())
 console.log(syd.length, mel.length, bris.length, set.results.length)
         res.render ('dashboard', {
-          set: set.results,
+          set: new Set(set.results),
           tech: search,
           adFrom: set.__CLASS__.split(":", 1),
           parsedSeekAus, parsedIndeedAus, parsedIndeedUk, parsedIndeedUsa,
