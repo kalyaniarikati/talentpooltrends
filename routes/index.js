@@ -6,7 +6,7 @@ const { loadData } = require('../config/data');
 // Welcome Page
 router.get('/', (req, res) => {
     res.render('welcome');
-    loadData();
+    // loadData();
 });
 
 // Dashboard

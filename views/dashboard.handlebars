@@ -1,5 +1,6 @@
 <h1 class="mt-4">Dashboard</h1>
-<p class="lead mb-3"> Welcome <strong>{{name}}</strong> </p>
+<p class="lead mb-3"> Welcome</p>
+<a href="/users/logout" class="btn btn-secondary">Logout</a>
 
 
 <form class="form-inline" action="/api/searchBy" method="POST">
@@ -9,41 +10,131 @@
         id="location" name="location">
     <button class="btn btn-primary my-2 my-sm-0" type="submit">Search</button>
 </form>
+<br>
+{{!-- <h3>Counts: 
+  {{!-- SeekAus => {{parsedSeekAus.jobs.length}},  --}}
+  {{!-- IndeedAUS: {{parsedIndeedAus.jobs.length}}  --}}
+  {{!-- {{!-- UK: {{parsedIndeedUk.jobs.length}},  --}}
+  {{!-- SA: {{parsedIndeedUsa.jobs.length}} --}}
+{{!-- </h3> --}}
+{{!-- {{!-- <h4>Technology: {{tech}}</h4>  --}}
 
- <div class="row justify-content-center">
-     {{tech}}
+<div class="row">
+    <div class="col-8">
         {{#each set}}
-        <div class="col-md-4" style="margin-top: 50px;">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Company: {{this.company.display_name}}</h5>
-                    <li>City:{{this.location.display_name}} </li>
-                    <li>Country:{{this.location.area}} </li>
 
-                </div>
-            </div>
+        <div class="card w-75 border-0">
+          <br>
+          <div class="card-body">
+            <h5 class="card-title">{{this.company.display_name}}</h5>
+            <p class="card-text">
+              {{this.location.display_name}}
+              {{!-- {{this.location.area}} --}}
+            </p>
+            <span>
+              <button type="button" class="btn btn-info">Apply
+                <a target="_blank" href="{{this.redirect_url}}"></a>
+              </button>
+              <sub>{{adzuna this.__CLASS__}}</sub>
+            </span>
+            <br>
+          </div>
+          <div class="card-footer bg-transparent border-success p-0"></div>
         </div>
         {{/each}}
     </div>
+    <div class="col-4">
+        <input id="aus" type="hidden" value={{parsedSeekAus.jobs.length}} aria-hidden="true"><br><br>
+        <input id="uk" type="hidden" value={{parsedIndeedUk.jobs.length}} aria-hidden="true"><br><br>
+        <input id="usa" type="hidden" value={{parsedIndeedUsa.jobs.length}} aria-hidden="true"><br><br>
+        <button class="btn btn-primary my-2 my-sm-0" type="submit" id="buttonId">Trend Graphs</button>
 
-    {{!-- <div class="col-md-4 m-auto">
-        <div class="card card-body">
-            <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Based on your previous searches</span>
-            </h1>
+
+        <div class="card card-body border-0">
+
+        <div class="div1"></div>
+
+            <div id="chart">
+            </div>
+        </div>
+        <div class="card card-body border-0">
+            <div id="chart1">
+            </div>
+
+        </div>
+        <div class="card card-body border-0">
+            <div id="chart2">
+            </div>
         </div>
     </div>
-    <div class="card card-body">
-        <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Tech trends technologies compared</span>
-        </h1>
-    </div>
-    <div class="card card-body">
-        <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Number of job openings in last 2 months in
-                different portals</span></h1>
-    </div>
-    <div class="card card-body">
-        <h1 class="text-center mb-3"> <i class="fas fa-sign-in-alt"></i><span>Tech trends comparing salries at different
-                locations</span></h1>
-    </div> --}}
+
 </div>
+</div>
+</div>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+<script>
+
+    document.querySelector('#buttonId').addEventListener("click", function () {
+        let aus = document.querySelector('#aus').value;
+        let uk = document.querySelector('#uk').value;
+        let usa = document.querySelector('#usa').value;
+
+
+        var options = {
+            chart: {
+                type: 'line'
+            },
+            series: [{
+                name: 'jobs',
+                data: [aus, uk, usa]
+            }],
+            xaxis: {
+                countries: ['AU', 'UK', 'USA']
+            }
+        }
+aus=aus/10;
+uk=uk/10;
+usa=usa/10;
+let data=[aus, uk, usa]
+
+        var chart = new ApexCharts(document.querySelector("#chart"), options);
+        chart.render();
+
+
+        var options = {
+            series: data,
+            chart: {
+                width: 380,
+                type: 'pie',
+            },
+            labels: ['AUS', 'UK', 'USA'],
+            responsive: [{
+                breakpoint: 480,
+                options: {
+                    chart: {
+                        width: 200
+                    },
+                    legend: {
+                        position: 'bottom'
+                    }
+                }
+            }]
+        };
+        let chart1 = new ApexCharts(document.querySelector("#chart1"), options);
+        let chart2 = new ApexCharts(document.querySelector("#chart2"), options);
+
+
+
+        {{!-- chart.render(); --}}
+        chart1.render();
+        chart2.render();
+
+    });
+
+</script>
 
 <a href="/users/logout" class="btn btn-secondary">Logout</a>
