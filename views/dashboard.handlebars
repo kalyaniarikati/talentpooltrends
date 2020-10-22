@@ -122,6 +122,39 @@
                 countries: ['SYD', 'MEL', 'BRIS']
             }
         }
+
+        var options = {
+          series: [{
+             name: 'jobs',
+                data: [syd, mel, bris]
+        }],
+          chart: {
+          height: 350,
+          type: 'line',
+          zoom: {
+            enabled: false
+          }
+        },
+        dataLabels: {
+          enabled: false
+        },
+        stroke: {
+          curve: 'straight'
+        },
+        title: {
+          {{!-- text: 'Product Trends by Month', --}}
+          align: 'left'
+        },
+        grid: {
+          row: {
+            colors: ['#f3f3f3', 'transparent'], // takes an array which will be repeated on columns
+            opacity: 0.5
+          },
+        },
+        xaxis: {
+          countries: ['SYD', 'MEL', 'BRIS'],
+        }
+        };
         aus = aus / 10;
         uk = uk / 10;
         usa = usa / 10;
@@ -151,12 +184,12 @@ document.getElementById("head1").innerHTML = "Australia Jobs Trend";
             }]
         };
         let chart1 = new ApexCharts(document.querySelector("#chart1"), options);
-document.getElementById("head2").innerHTML = "Jobs aroud the Globe";
+document.getElementById("head2").innerHTML = "Jobs around the Globe";
 
         ausa = ausa / 10;
         ausi = ausi / 10;
         aus = aus / 10;
-        let data1 = [ausa, ausi, aus]
+        let data1 = [2, 2, 4]
         var options = {
             series: data1,
             chart: {
