@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 5678;
 require('./config/passport')(passport);
 
 // DB
-const db = require('./config/keys').MongoURI || MongoURI;
+const db = process.env.MongoURI;
 
 // Connect to Mongo
 mongoose.connect(db, {
