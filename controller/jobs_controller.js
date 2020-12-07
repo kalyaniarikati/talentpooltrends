@@ -1,7 +1,6 @@
 const express = require ('express');
 const router = express.Router ();
 const axios = require ('axios');
-const chalk = require ('chalk');
 
 // data from files
 const fs = require('fs')
@@ -55,7 +54,7 @@ const getSearch = (req, res) => {
   let set = {};
 
   if (req.method === 'POST') {
-    console.log (chalk.green (`Proxy GET request to : ${targetURL}`));
+    console.log ((`Proxy GET request to : ${targetURL}`));
     axios
       .get (targetURL)
       .then (response => {
@@ -83,7 +82,7 @@ console.log(syd.length, mel.length, bris.length, set.results.length)
         });
       })
       .catch (err => {
-        console.log (chalk.red (err));
+        console.log ((err));
         res.send (JSON.stringify (err));
       });
   }
