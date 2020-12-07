@@ -8,10 +8,10 @@ const fs = require('fs')
 
 // Configs
 // const config = require ('../config/keys');
-const APP_ID = require ('../config/keys').APP_ID || APP_ID;
-const API_KEY = require ('../config/keys').API_KEY || API_KEY;
-const BASE_URL = require ('../config/keys').BASE_URL || BASE_URL;
-const BASE_PARAMS = require ('../config/keys').BASE_PARAMS || BASE_PARAMS;
+const APP_ID = process.env.APP_ID;
+const API_KEY = process.env.API_KEY;
+const BASE_URL = process.env.BASE_URL;
+const BASE_PARAMS =  process.env.BASE_PARAMS;
 
 
 const headers = {
@@ -51,7 +51,7 @@ const getSearch = (req, res) => {
   const location = req.body.location;
   const country = 'au';
 
-  const targetURL = `${config.BASE_URL}/${country.toLowerCase ()}/${config.BASE_PARAMS}&app_id=${config.APP_ID}&app_key=${config.API_KEY}&what=${search}&where=${location}`;
+  const targetURL = `${BASE_URL}/${country.toLowerCase ()}/${BASE_PARAMS}&app_id=${APP_ID}&app_key=${API_KEY}&what=${search}&where=${location}`;
   let set = {};
 
   if (req.method === 'POST') {
