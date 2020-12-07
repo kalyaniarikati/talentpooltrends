@@ -7,7 +7,12 @@ const chalk = require ('chalk');
 const fs = require('fs')
 
 // Configs
-const config = require ('../config/keys');
+// const config = require ('../config/keys');
+const APP_ID = require ('../config/keys').APP_ID || APP_ID;
+const API_KEY = require ('../config/keys').API_KEY || API_KEY;
+const BASE_URL = require ('../config/keys').BASE_URL || BASE_URL;
+const BASE_PARAMS = require ('../config/keys').BASE_PARAMS || BASE_PARAMS;
+
 
 const headers = {
   'Content-Type': 'application/json',

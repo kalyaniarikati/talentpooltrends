@@ -3,7 +3,6 @@ const router = express.Router();
 
 const {getJobs, getSearch} = require('../controller/jobs_controller');
 const { ensureAuthenticated } = require('../config/auth');
-const config= require('../config/keys')
 const axios = require('axios');
 const chalk = require('chalk');
 
