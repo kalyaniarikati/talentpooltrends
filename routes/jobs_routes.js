@@ -4,7 +4,6 @@ const router = express.Router();
 const {getJobs, getSearch} = require('../controller/jobs_controller');
 const { ensureAuthenticated } = require('../config/auth');
 const axios = require('axios');
-const chalk = require('chalk');
 
 router.post('/jobs', ensureAuthenticated, getJobs)
 router.post('/searchBy',  getSearch )
